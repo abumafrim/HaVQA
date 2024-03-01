@@ -1,0 +1,1204 @@
+2380072	555501	Who is in the pic?	No one.	Waye a hoton?	Babu kowa.
+2408925	1070513	Where is the cat standing?	In a bowl.	A ina magen ke tsaye?	A cikin kwano.
+2332812	593257	What color is the fruit?	Green and brown.	Mene launin abun marmari?	Kore da ruwan ƙasa.
+2386985	805833	When was this photo taken?	Outside, during the daytime.	A yaushe aka ɗauki wannan hoton?	Waje, da rana.
+2386985	805828	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2377924	1991983	What item is used to hear?	Ears.	Wanne abu ake anfani dashi wajan ji?	Kunne.
+2334064	848177	What color is the sign?	Yellow and red.	Mene launin alama ?	Rawaya da ja.
+2417901	954359	How many children wearing hats?	One.	Yara nawa ke sanye da hula?	Ɗaya.
+2333844	848348	Who is standing on the tracks?	No one.	Wake tsaye a hanyar jirgin ƙasan?	Babu kowa.
+2406916	1195549	Where is window?	The office.	Ina tagar?	A ofis.
+2403741	1289301	Where are the zebras?	In grass.	Ina dakunan dawa?	A ciyawa.
+2372034	1876113	What is on the table?	The white plate.	Mene akan tebur din?	Farin faranti.
+2372034	497951	How much pizza remains on the table?	One slice.	Fiza nawa ce tayi ragowa a kan tebur?	Yanka ɗaya.
+2323235	870472	Where is the girl in the picture?	Inside a vehicle.	Ina yarinyar a hoton?	Cikin abin hawa.
+2401712	1249569	What's the number of giraffes in the picture?	2	Raƙumin dawa nawa ne a hoton?	2
+2372104	1877480	What is orange and black?	The wheels.	Mene mai ruwan goro kuma baƙi?	Ƙafafu.
+2335167	783286	What is it made of?	Wood.	Dame akayi shi?	Katako.
+2394763	1380636	Where is the mirror?	On the wall.	Ina madubin?	Jikin bango.
+2405085	1152976	Who is riding the horse?	A person.	Waye ya hau doki?	Mutane ne.
+2398981	1528062	Why is the person in the air?	They jumped.	Meyasa mutumin yake cikin iska?	Sunyi tsalle ne.
+2332221	337866	Where is this scene?	Beach.	Ina ne hakan?	Gefen ruwa.
+2332221	337868	Why is it bright?	The sun.	Meyasa yayi haske?	Saboda rana.
+2390299	1356816	What is this food?	A cake.	Wanne abinci ne?	Kek.
+2373259	369019	How many bald adults are there?	Two.	Maza nawa ne marassa gashi a wajan?	Biyu.
+2360918	1651593	What amount of colors on bus?	Three.	Launika nawa ne a jikin motar bas din?	Uku.
+2315483	932487	When was the picture taken?	Daytime.	Da yaushe aka ɗauki hoton?	Da rana.
+2351388	978825	Where was the photo taken?	In the zoo.	A ina aka ɗauki hoton?	A gidan ajjiye namomin daji.
+2325181	343487	What plant is partially visible?	Tree.	Wacce shuka ce ake ɗan ganin ta?	Bishiya.
+2325217	465839	Who has a tail?	A horse.	Waye yake da jela?	Doki.
+2382489	617464	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2407228	1201919	What color is the writing on the boat?	Black.	Mene launin rubuta jikin kwalekwale?	Baƙi.
+2333612	592617	What color are the plates?	White.	Mene launin farantan?	Fari.
+2363917	1711177	What number is in the circle?	60	Wacce lamba ce aka zagaye?	60
+2366157	1755957	Where is the water?	Under the horse.	Ina ruwan yake?	Kasan dokin.
+2368217	1797647	Where are many small windows?	On the planes.	A ina ƙananun taga suke masu yawa?	A jikin jirgin sama.
+2346599	390349	What color are the flowers?	Yellow.	Mene launin furanni ?	Rawaya.
+2342457	456216	Where is this scene taking place?	Outdoors.	A ina haka ne faruwa?	A waje.
+2366573	1764371	Where is the face?	On dog.	Ina fuskar?	Jikin karen.
+2330616	463346	What time of day is it?	Nighttime.	Wanne lokaci ce wannan?	Da dare.
+2358256	1596900	What type of bird is this?	A hawk.	Wanne irin tsuntsu ne?	Shaho.
+2377924	1991985	What item has a metal handle?	A umbrella.	Wanne irin abun ne mai hannun ƙarfe?	Lema.
+2334064	848174	What color are the man's pants?	Blue.	Mene launin jirgin wandon mutumin?	Shuɗi.
+2333844	848347	What color are the train's stripes?	Orange.	Mene launin layin dake jikin jirgin ƙasan?	Ruwan goro.
+2403741	1289280	Where are the zebras?	Wild.	Ina jakunan dawa?	A daji.
+2355345	831140	What color are the shirts of the men?	White.	Wanne launin riga ce a jikin mazen?	Fara.
+2406991	200461	How many men are there?	Two.	Maza nawa ne a nan?	Biyu.
+2365424	1741609	What is the bench made of?	Wood.	Dame akayi bencin?	Katako.
+2323235	870468	Where is the wrist watch?	Left wrist.	Ina agogon hannun?	Yana hannun hagu.
+2393112	545094	Where is the clock tower?	Beside a building.	Ina agogon hasumiya?	Kusa da ginin.
+2328845	852342	What color is the ball?	White.	Mene launin kwallon?	Fari.
+2328845	852344	What color are the wheels?	Black and gray.	Mene launin ƙafafu?	Baƙi da ruwan toka.
+2377160	1980445	What type of birds are the smaller birds?	Ducks.	Wacce irin tsuntsu ne ƙanana.?	Agwagwa.
+2394499	1505895	Where is the dog?	On a pillow.	Ina karen?	Yana kan matashin.
+2394499	352029	What is the dog on?	The pillow.	Akan me karen yake?	Kan matashi kai.
+2412517	156249	What color is the table?	Brown.	Mene launin tebur din?	Ruwan ƙasa.
+2412517	1126497	What is behind the food?	A window with a closed curtain.	Mene a bayan abincin.?	Taga da rufaffen labule.
+2332221	337864	How many umbrellas?	1	Lema nawa ne?	1
+2332221	337870	What is in the background?	Boat.	Mene a ƙasan bayan hoton?	Jirgin ruwa.
+2405531	1162832	What color is the elephant?	Grey.	Mene launin giwar?	Ruwan toka.
+2361427	1661760	Where is the pizza?	Board.	Ina fiza din?	Kan abun katakon.
+2316213	926642	What does the sign say?	Carrots $3.50 a bunch.	Me ake ce a jikin alamar?	Karas $3.50 duk dauri.
+2373259	369023	How many blue bibs are visible?	One.	Shuɗin bib nawa ake iya gani?	Ɗaya.
+2341475	522394	Who is on the bike?	The man.	Waye kan keke?	Namijin.
+2338525	844599	What is in the background?	Trees.	Mene ne a ƙasan bayan hoton?	Bishiyu.
+2315483	932488	What color are the rocks?	Gray.	Mene launin dutsen?	Ruwan toka.
+2324028	864129	Who are the people in the picture?	Man and woman.	Suwa mutanan dake jikin hoton?	Maza da mata.
+2365859	1750024	What are elephants doing?	Drinking.	Me giwar take yi?	Shan ruwa.
+2364367	1720506	Where is this photo taken?	On a city street.	A ina aka ɗauki wannan hoton?	A kan titi cikin gari.
+2387978	1535700	Where is the tree?	In front of the clock tower.	Ina bishiya?	A gaban hasumiya agogo.
+2408925	184987	Why is the cat eating?	It is hungry.	Meyasa mage ke cin abinci?	Tana jin yunwa.
+2322820	873792	What color is the cow?	Brown and white.	Menene launin jikin San.?	Ruwan ƙasa.
+2409878	1091796	Who is wearing gloves?	Players.	Waye yake sanye da safar hannun?	Yan wasa.
+2410402	1110335	What is in the water?	Large rocks.	Mene a cikin ruwan?	Mayan dutse.
+2411204	1324734	Who is wearing red?	Girl with long hair.	Wake sanye da jar riga?	Yarinya mai dogon gashi.
+2410132	1097176	Where is the fence?	Behind the trees.	Ina dangar?	Bayan bishiyu.
+2406154	1177059	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2408925	1070497	Where is cat food?	In two bowls.	Ina abinci mage?	A kwanika biyu.
+2408084	191715	What is the man doing?	Skateboarding.	Me mutumin ke yi?	Wasan sikebod.
+2392157	1366764	What is in the front window of the bus?	Sign.	Mene ne a gaban tagar motar bas din?	Alama ce.
+2374875	1935340	Where is the teapot positioned?	Back right burner.	Ina tukunyar shayin take?	Akan murhun baya na dama.
+2343628	648558	What color is the cellphone?	Black.	Mene launin jikin wayar salula?	Baƙa.
+2353308	640813	Where are the Dali banners displayed?	On the side of the building.	A ina aka sanya tutocin Dali?	Daga gefen ginin.
+2346613	582204	What kind of animal is in the picture?	A dog.	Wanne irin dabba ce a hoton?	Kere.
+2391897	1492379	Where is the round white decoration?	On the clock tower.	Ina farin zagayayye abin adon?	Kan hasumiya agogo.
+2374875	1935341	What appliance is this?	Stove an oven.	Wanne kayan amfani ne wannan?	Abun girki da abun gashi.
+2318313	909847	What color is the building?	White.	Mene launin gini?	Fari.
+2415614	936061	What is on the woman's hip?	A purse.	Mene a kugun matar?	Ƙaramar jaka.
+2338734	524594	What colors are the cows?	Brown and white.	Mene launin jikin shanu?	Fari da ruwan ƙasa.
+2386251	678438	When is this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2326516	465268	When is this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2326516	465264	What type of animals are pictured?	Elephants.	Wanne irin dabbobi aka ɗauka hoton?	Giwaye.
+2321264	886234	When was this photo taken?	Daytime.	A yaushe aka ɗauki wannan hoton د?	Da rana.
+2365326	1739584	What kind of picture is on the right?	Black and white.	Wanne irin hoton ne a dama?	Baƙi da fari.
+2376147	750504	What are the small red balls?	Cherry tomatoes.	Mene ne ƙananu kuma jajayen kwallo?	Tumatur.
+2401318	1241529	What is the main color of the letter C?	White.	Mene ainihin launin harafun C?	Fari.
+2378419	364893	What color is the bike's tire?	Black.	Mene launin tayar babur din?	Baƙi.
+2332102	273748	When was picture taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2352633	577421	What time does the clock say?	14:35:00	Ƙarfe nawa agogon yace?	14:35:00
+2375565	1948360	What is hanging in front of the bike?	A black bag.	Mene rataye a gaban babur din?	Baƙar jaka.
+2384078	360374	What two colors are on the flag painted on the train?	Red and blue.	Waɗanne launika ne guda biyu a jikin tutar da akayi fentin ta jikin jirgin ƙasan.?	Ja da shuɗi.
+2356158	382706	Where is the fork?	Right of the plate.	Ina cokalin yatsu yake?	Dama da farantin.
+2368690	1807937	Who is sitting in a chair?	An athlete.	Waye ke zaune a kujera?	Dan wasa.
+2381594	490309	What color is the side of the train?	Red.	Mene launin gefen jirgin ƙasan?	Ja.
+2404093	1296194	What is the main color of the leaves?	Green.	Mene ainihin launin ganyayyakin?	Koraye.
+2349854	515698	What are the foods on?	Board.	Me abincin yake kai?	Kan abun katako.
+2326386	790316	When was this picture taken?	In the daytime.	Yaushe aka ɗauki wannan hoton m?	Da rana.
+2415472	934925	Where is person with white shirt?	On right.	Ina mutumin dake sanye da farar riga?	Gefen dama.
+2398174	477046	What color is the street?	Gray.	Mene launin titin?	Ruwan toka.
+2403452	536817	How many planes do you see?	One.	Jirgin sama nawa aka gani?	Ɗaya.
+2376147	750499	When is the picture taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2412490	1125878	What is painted green?	The bus.	Mene mai fenti kore?	Bas ce.
+2339629	651738	What are the sheep eating?	Grass.	Me tumaki ke ci?	Ciyawa.
+2393344	800747	What animals are in the picture?	Elephants.	Wanne dabbobi ne a hoton?	Giwaye.
+2375565	1948355	What is orange on the bike?	The turn signals.	Mene mai launin ruwan goro a babur din?	Alamar juyawa.
+2394870	671548	What is present?	A train.	Mene a nan?	Jirgin ƙasa.
+2387890	1535241	Where is this picture taken?	A street.	A ina aka ɗauki wannan hoton?	A titi.
+2363837	440319	How many of the people are women?	4	Mata nawa a cikin mutanen?	4
+2379989	619461	When was this photo taken?	During the day.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2364025	1713470	Where are the boy's hands?	On his knees.	A ina hannayen yaron suke?	Akan gwiwar sa.
+2338734	524591	Where are the cows?	In a field.	Ina shanu?	A fili.
+2338734	524592	Who is in the picture?	No one.	Waye a hoton?	Ba kowa.
+2338734	524597	How many cows can be seen?	4	Shanu nawa ake iya gani?	4
+2334735	527785	What color are the majority of the boats?	White.	Wanne launin mafi yawan jirgin ruwa suke dashi?	Fari.
+2398038	1461093	What are the boats floating in?	Water.	Jirgin ruwan suna yawo a Ina?	Ruwa.
+2403260	1278855	Where are the sheep?	In the front field.	Ina tunkiyoyi suke?	A gaban fili.
+2410331	1101343	What is the color of the wall?	White.	Mene launin bangon?	Fari.
+2350144	835312	When was the photo taken?	Day time.	Yaushe aka ɗauki hoton?	Da rana.
+2393406	1438705	What is near the umbrella?	Trees.	Mene kusa da lema?	Bishiyu.
+2376147	750503	Who is eating?	The people.	Wake cin abinci?	Mutane.
+2323919	864997	How many blue and white players are shown?	Two.	Yan wasa masu shuɗi da fari nawa aka nuna?	Biyu.
+2378419	364889	Who is in the photo?	Nobody.	Waye a hoton?	Ba kowa.
+2411258	1325860	What's the color of the table?	Brown.	Mene launin tebur din?	Ruwan ƙasa.
+2338152	588982	What animals are in the picture?	Lambs.	Wacce dabbobi ne a hoton?	Tumaki.
+2412490	156464	Who are riding on the buses?	People.	Suwaye suka hau motoci bas?	Mutane.
+2385611	678954	Where is the cat lying?	In the sunlight.	Ina magen ke kwance ?	A cikin rana.
+2356292	574521	Who is behind the table?	Women.	Waye a bayan tebur din?	Mata ne.
+2341544	842186	How is the weather?	Sunny.	Ya yanayi garin ?	Rana.
+2383236	424951	What color is the paper?	White.	Mene launin jikin takardar?	Fari.
+2406459	204714	How many motorcycles are there?	One.	Babur nawa ne a nan?	Ɗaya.
+2370761	1849218	What is lighting up the scene?	The sun.	Me ya haskaka yanayi?	Rana.
+2354294	512145	Why is the man wearing glasses?	To see clearly.	Meyasa mutumin ya saka madubi idanu?	Ya gani sosai.
+2359857	1629674	Where is the window?	On the building.	A ina tagar take.?	A jikin gini.
+2346613	582205	How many dogs are in the picture?	One.	Karnika nawa ne a hoton?	Ɗaya.
+2372504	1886259	Where are the trees?	On the edge of the water.	Ina bishiyun suke?	A gaɓar ruwa.
+2332663	273295	What color are the boys shorts?	Blue.	Mene launin wandon yaron?	Shuɗi.
+2398174	477043	When was the photo taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2398038	1589324	What is seen in the distance?	Mountains.	Me ake gani a can nisa?	Tsauni.
+2319425	900951	What color is the sky?	Blue.	Mene launin sararin samaniya?	Shuɗi.
+2339629	651736	Where is the fence?	To the left of the sheep.	Ina dangar?	Daga damar tumaki.
+2375565	1948359	What is all over the tire?	Mud.	Mene a jikin taya?	Taɓo.
+2384078	360373	How many train windows are pictured?	Five.	Tagogin jirgin ƙasa nawa ne a hoton?	Biyar.
+2383236	424948	What color is the cat?	Grey.	Mene launin jikin magen?	Ruwan toka.
+2331263	274412	When was this photo taken?	Daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2374316	432064	Why is she smiling?	For the pic.	Meyasa take murmushi?	Saboda hoton.
+2379989	619463	What color is the girl's shirt?	Blue.	Mene launin rigar yarinyar?	Shuɗi.
+2345970	710670	When was this photo taken?	Daytime.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2345970	710667	Who is in the sky?	A bird.	Waye a sararin samaniya?	Tsuntsu.
+2317662	915051	What color is the arrow sign?	Blue.	Mene launin alamar kibiyar?	Shuɗi.
+2338734	524595	When is the picture taken?	Daytime.	Da yaushe aka ɗauki hoton?	Da rana.
+2327770	725218	What color is the ground?	White.	Mene launin ƙasan?	Fari.
+2386251	678436	What color is the bicycle?	Green.	Mene launin jikin keken?	Kore.
+2374744	1932794	What type of computer is this?	A laptop.	Wanne irin na'ura komfuta ce wannan?	Komfuta tafi da gidan ka.
+2403260	1278867	Where are the trees?	Background.	Ina bishiyun?	A kasan bayan hoton.
+2350144	835313	Where is the man?	The street.	Ina mutumin?	A titi.
+2345063	263547	How many cats are in the picture?	One.	Maguna nawa ne a hoton?	Ɗaya.
+2411258	1325862	What's the color of the plate?	White.	Mene launin farantin?	Fari.
+2401569	602205	What color are the trees?	Green.	Mene launin bishiyun?	Koraye.
+2338152	588979	How many animals are in the picture?	Two.	Dabbobi nawa ne a hoton?	Biyu.
+2412490	1125884	What color is the line next to the green bus?	White.	Mene ne launi layin dake kusa da Koriya bas.?	Fari.
+2385611	678955	What direction is the cat looking?	To the left.	Wanne ɓangaren magen ke kalla?	Hagu.
+2363939	1711640	Where is the pillow?	Under cat's head.	Ina matashin kai yake?	Kasan kan mage.
+2341544	842192	What are the people doing?	Walking.	Me mutane suke yi?	Tafiya.
+2394870	1381294	Who is in the picture?	A woman.	Waye a hoton?	Mace ce.
+2377909	621129	How many people can be seen in this picture?	Two.	Mutane nawa ake iya gani a wannanh oton?	Biyu.
+2346276	453520	What time of day is it?	Day time.	Wanne lokaci wannan?	Da rana.
+2374316	1923532	What is on the feet of the baby?	Socks.	Mene ne a ƙafar jaririn?	Safa.
+2364025	1713480	What is white on the grass?	Flowers.	Mene fari a kan ciyawar?	Furanni.
+2318339	909636	What color is the sky?	Blue.	Mene launin sararin samaniya?	Shuɗi.
+2350144	835311	What is on the ground?	Cement.	Mene a ƙasa?	Siminti.
+2350144	835306	Why is the man in the street?	Catching the bus.	Meyasa mutumin ke kan titi?	Shiga motar bas.
+2401318	1241521	Where is a window?	On the plane.	Ina tagar take?	A jikin jirgin sama.
+2372168	1878958	Who has blue eyes?	The child.	Waye ke da shuɗi ido?	Yaron.
+2341119	394728	What kind of room is this?	Bedroom.	Wanne irin  daki ne wannan?	Dakin bacci.
+2401569	1246801	Where are the trees?	On the left.	Ina bishiyun?	Suna gefen hagu.
+2319425	900948	How many motorcycles are there?	Two.	Babur nawa ne a nan?	Biyu.
+2362135	505864	What is in the cup?	A drink.	Mene a moɗar?	Abin sha.
+2364752	1728074	Where are the cut vegetables sitting?	On top of a knife.	Ina yankakkun kayan lambu suke?	Kan saman wuƙa.
+2339629	651739	When was this picture taken?	During the day.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2392672	1496591	Where are the birds?	Grass field.	Ina tsuntsaye?	Kan ciyawa.
+2381594	490306	How many train tracks are there?	Two.	Hanyar jirgin ƙasa nawa ne a nan?	Biyu.
+2326386	790314	What color is the water?	Blue.	Mene launin ruwan?	Shuɗi.
+2364025	1713476	Where are the white flowers?	In the grass.	Ina fari furanni?	A cikin ciyawa.
+2330319	403375	What color are the bedsheets?	White.	Mene launin zanin gadon?	Fari.
+2376291	686409	Who is visible in this picture?	The bus driver.	Wa ake gani a cikin hoton?	Me tukin bas.
+2398038	1523142	What can be seen in the distance?	Mountains.	Me ake gani a nesa?	Duwatsu.
+2367932	1791664	Where is the spire on the church?	Top of the tower.	Ina spire yake a coci?	Saman tower.
+2403452	536816	When was picture taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2336048	654609	What color is the table the gray laptop is on?	Silver.	Menene launin teburin da kwanftar tafi da gidan ka ruwan kasa take kai?	Silver.
+2410331	1101346	What color is the ramp?	Brown.	Menene launin ramp?	Ruwan ƙasa.
+2371319	370568	What is in the grass?	Elephants.	Menene a cikin ciyawa?	Giwaye.
+2371319	1861157	What way are the elephants facing?	Left.	Wani ɓangare giwayen suke kallo?	Hagu.
+2376147	750498	What is the white clumps?	Cheese.	Menene fari curarre?	Cikwi.
+2323919	864998	What color is the dirt?	Brown.	Menene launin ƙasar?	Ruwan ƙasa.
+2341119	394735	What color is the towel on the balcony?	Pink.	Menene launin tawul din da ke balcony?	Pink.
+2401317	410571	When will the car near the crosswalk be gone?	After it moves past the crosswalk.	Yaushe motar da ke kusa wurin tafiya zata tafi?	Bayan ta wuce wurin tafiyar.
+2366107	1754849	What is painted green?	The bench.	Meye fenti kure?	Benci.
+2384078	360369	What color is the sky in the photo?	Blue.	Meye launin sararin samaniya a hoton?	Shuɗi.
+2380626	746927	What is the horse doing?	Grazing.	Me dokin yakeyi?	Kiwo.
+2380626	746924	What is the white animal?	Bird.	Meye farin dabbar?	Tsuntsuwa.
+2381594	490310	How many headlights does the train have?	Two.	Fitila nawa ce a jirgin kasan?	Biyu.
+2354294	512150	Where Are the man's glasses?	On his face.	Ina gilashin mutumin?	Akan fuskar shi.
+2346276	453525	What is the man doing?	Surfing.	Me mutumin keyi?	Hawa igiyar ruwa .
+2346276	453527	What color is the water?	Green.	Me launi ruwan?	Kore.
+2379989	619462	How many people do you see?	Two.	Mutane nawa ka gani?	Biyu.
+2346613	582203	Where is the picture taken?	The beach.	A ina aka dauki hoton?	A bakin ruwa.
+2330319	403372	How many women are on the bed?	Two.	Mutane nawa ne akan gadon?	Biyu.
+2334735	527784	How many birds are shown in the photo?	One.	Tsuntsu nawa ne ya nuna a hoton?	Ɗaya.
+2339362	268064	Where was this picture taken?	In the refrigerator.	A ina ka dauki hoton?	A cikin firing.
+2410331	1101337	What age is the boy?	14	Meye shekarun yaron?	14
+2401318	346579	How many airplanes are there?	One.	Jirgi nawa ne a gurin?	Ɗaya.
+2372168	1878941	What is the boy doing?	Playing with a cellphone.	Me yaron ya keyi?	Wasa da wayar hannu.
+2378419	364894	Why is the picture clear?	Its daytime.	Meyasa hoton yay tar?	Da rana ne.
+2380626	746928	How many horses are in the picture?	One.	Doki nawane a hoton?	Ɗaya.
+2368690	1807925	What game is being played?	Baseball.	Wani wasa akeyi?	Kwallon kwando.
+2393936	1502767	What is the wall's color?	White.	Meye launin bangwan?	Fari.
+2387890	1411033	Where is the grass?	On the ground.	Ina ciyawar take?	A ƙasa.
+2387890	1411038	Where is the concrete?	In the road.	Ina kankare?	A titi.
+2363837	440313	Who is in the water?	People.	Waye acikin ruwan?	Mutane.
+2415472	934922	What are they watching?	TV.	Me suke kallo?	Talabijin.
+2368442	1802651	Where is the ball?	In the air.	Ina kwallon?	A iska.
+2318313	909842	What color is the ground?	Green.	Mene launin ƙasan?	Kore.
+2346613	582207	How many people are on the beach?	Two.	Mutane nawane a bakin ruwan?	Biyu.
+2391897	418062	How many clocks?	1	Agogo nawane?	1
+2332663	273294	What color is the man's sandals?	Brown.	Meye launin sandal din mutumin?	Ruwan ƙasa.
+2410331	173736	How many people are in the photo?	One.	Mutane nawa ne a hoton?	Ɗaya.
+2365326	1739582	What is the boy holding?	A balloon.	Me yaron yake riƙe dashi?	Balo.
+2376147	750500	What is the bright light?	Sun.	Meye me hasken?	Rana.
+2372168	1878966	What is the hand holding?	Phone.	Me yake riƙe dashi a hannu?	Waya.
+2316371	925381	What color is the sky?	Blue.	Me launin sararin samaniya?	Shuɗi.
+2401569	1246802	What is green in the image?	The tree.	Meye kore a hoton?	Bishiya.
+2341544	842187	What color is the sky?	Blue.	Mene launin sararin samaniya?	Shuɗi.
+2392672	545444	Who is next to the birds?	No one.	Waye a kusa da tsuntsayen?	Ba kowa.
+2387890	677139	What color is the jacket?	Blue.	Meye launin rigar?	Shuɗi.
+2377909	1991846	What is green things placed on pizza?	Leaves.	Meye koren abun da yake kan fizza ɗin?	Ganye.
+2346276	453526	Who is surfing?	A man.	Wa yake hawa kan igiyar ruwa?	Mutumin.
+2331263	274414	Where are the animals looking?	At the camera.	Ina dabbobin suke kalla?	Kamara.
+2384725	807640	What color is the table mat?	Red.	Meye launin tabarmar kan tebur?	Ja.
+2318313	909848	Where is the building?	Behind the trees.	Ina ginin yake?	Bayan bishiyar.
+2391897	1492374	What shape is the clock?	Round.	Meye siffar agogon?	Zagayayye.
+2391897	1492378	Where are the buildings?	Behind the trees.	Ina gina ginan suke?	Bayan bishiyin.
+2386251	678441	How many people are on the bicycle?	Two.	Mutane nawa ne a kan keke?	Biyu.
+2374744	1932796	What is the desk made out of?	Wood.	Dame akayi tebur din?	Katako.
+2360695	1647106	Where are the lights?	On the ceiling.	Ina fitular suke?	Suna saman silin.
+2401317	1241515	What is the fence on the right made of?	Metal.	Dame akayi dangar dame gefen damar?	Karfe.
+2356292	574519	Where are the bananas?	Right of oranges.	Ina ayabar?	Kusa da lemon zaki.
+2356292	574518	When was this taken?	During the day.	Yaushe aka ɗauki wannan?	Da rana.
+2339629	651737	Where was this photo taken?	In a field.	A ina aka ɗauki wannan hoton?	A fili.
+2393344	1500011	What is in the photo?	Elephants.	Mene ne a hoton?	Giwaye.
+2375565	814967	Where is the motorcycle parked?	On the street.	A ina aka ajjiye babur din?	A kan titi.
+2356158	382705	What are they drinking?	Coca-Cola.	Me suke sha?	Coca-cola.
+2394870	671549	When was this?	Daytime.	Yaushe hakan?	Da rana.
+2403452	536818	What is white?	A plane.	Mene ne fari?	Jirgin sama.
+2341119	394730	What color are the bed sheets?	White.	Mene launin zanin gadon?	Fari.
+2319358	901487	How many people are in this photo?	None.	Mutane nawa ne a wannan hoton?	Babu.
+2319358	901485	What color are the flowers in the window?	Yellow.	Mene launin furanni dake taga?	Rawaya.
+2363939	1711655	Where is the cat sleeping?	In a chair.	Ina magen ke barci?	Kan kujera.
+2383236	424950	What is the cat sitting on?	A paper.	Akan me magen ke zaune?	Takarda.
+2354294	512147	What Color is the man's shirt?	White.	Mene launin rigar mutumin?	Fari.
+2345970	710671	What color is the water?	Blue.	Mene launin ruwan?	Shuɗi.
+2331263	274408	What are pictured in this photo?	Sheep.	Hoton mene wannan?	Tumaki.
+2317662	915057	Where is the stop sign?	Above the arrow sign.	Ina alamar tsayawa?	Saman alamar kibiyar.
+2363080	313207	Where is the girl?	In the water.	Ina yarinyar take?	A cikin ruwa.
+2332663	273288	What color is the cup that the little boy is holding?	Red.	Mene launin moɗa da karamin yaron ke riƙe dashi.?	Ja.
+2327770	725214	How many people are skiing?	1	Mutane nawa ke wasan gudun ƙanƙara?	1
+2386251	678437	What does the sign in the background say?	Coca cola.	Me alamar dake ƙasan bayan yace.?	Coca cola.
+2346613	582210	What color is the dog?	Black.	Mene launin jikin karen?	Baƙi.
+2393406	1373251	What is next to the umbrella?	Tree.	Mene kusa da lema?	Bishiya.
+2378419	364892	When was the photo taken?	During the day.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2412490	156466	What color is the front bus?	Green.	Mene launin motar bas din?	Koriya.
+2385611	678952	What color are the cat's eyes?	Green.	Mene launin idon magen?	Koriya.
+2380626	746923	Who is in the picture?	No one.	Waye a hoton?	Babu kowa.
+2398813	1402674	What is the sidewalk made of?	Cement.	Dame aka yi gefen hanyar?	Siminti.
+2349854	515695	Where is the fruit placed?	Bowl.	A ina aka ajjiye kayan marmari?	A kwano.
+2346276	453523	How many people in the photo?	One.	Mutane nawa ne a hoton?	Ɗaya.
+2415472	934928	Who is watching TV?	Two people.	Wake kallon TV?	Mutane biyu.
+2368442	1802658	Where is the tennis ball?	In the air.	Ina kwallon tanis?	Yana iska.
+2363080	313204	What color is girl's shirt?	White.	Mene launin gashin yarinyar?	Fari.
+2359857	1629684	What animal is attached to the cart?	Horse.	Wacce dabba aka ɗaura wa amalanke?	Doki.
+2364025	1713472	What is white in color?	The pants.	Mene mai launin fari?	Wandon.
+2344252	584104	How many toilets are there?	One.	Masai nawa ne a nan?	Ɗaya.
+2384725	807636	When was this photo taken?	Before a meal time.	A yaushe aka ɗauki wannan hoton?	Kafin lokacin cin abinci.
+2364049	632219	What is beside the bus?	A sidewalk.	Mene a kusa da bas din?	Hanyar tafiya.
+2364049	1713974	What is the bus doing?	Stopped at the station.	Me motar bas din ke yi?	Tsaye a tashar.
+2398174	477042	What color os the bus nearest the camera?	White.	Mene launin motar bas din dake kusa da kamera?	Fari.
+2326516	465267	What color are the elephants?	Grey.	Mene launin jikin giwayen?	Ruwan toka.
+2376291	686406	When was this picture taken?	During the day.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2341119	394733	What color cup is on the table?	White.	Mene launin moɗar dake kan tebur?	Fari.
+2364752	1728063	What is behind the table?	A wall.	Mene a bayan tebur din?	Bango.
+2380626	746929	What direction is the horse facing?	Right.	Wanne gefe dokin ke fuskanta?	Dama.
+2392672	1496600	Where are the white feathers on the birds?	Chest.	Ina fararen gashi yake a jikin tsuntsaye?	Kirji.
+2392672	1496593	What covers the animals?	Feathers.	Me ya rufe jikin dabbobin?	Gashi.
+2405201	1155324	What kind of chairs are in the middle of the picture?	Folding chairs,.	Wacce irin kujeru ne a tsakiyar hoton?	Kujeru masu nadewa.
+2370761	1849190	Where is the bench?	In the woods.	Ina benci yake?	A daji.
+2349854	515700	What color is the table?	White.	Mene launin tebur din?	Fari.
+2379989	619464	What is pulling the little girl?	A horse.	Meke jan ƙaramar yarinyar?	Daki.
+2344252	584102	What color is the toilet?	White.	Mene launin matsuguni?	Fari.
+2344252	584100	What is around the child's neck?	Necklaces.	Meke rataye a wuyan yarinyar?	Sarƙa.
+2407162	1200407	What color is the no left turn sign?	Black and white.	Mene launin alamar kar a juya hagu?	Baƙi da fari.
+2318313	909843	What is hanging in the background?	A banner.	Meke rataye a bayan ƙasan hoton?	Tuta.
+2384725	807641	What color is the plate?	White.	Mene launin farantin?	Fari.
+2339362	268066	How many bottles are in the picture?	Fifteen.	Kwalabe nawa ne a hoton?	Sha biyar.
+2318339	909638	When was this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2410331	1101339	What is in the background?	Wall.	Mene a bayan ƙasan?	Bango.
+2393406	1373255	What is the fence connected to?	Red brick wall.	Dangar ba haɗi da me?	Bangon jan bulo.
+2365326	1739603	When was this photo taken?	In the daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2341119	394729	When was this photo taken?	Day time.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2393344	1500014	Where are the elephants?	In the water.	Ina giwayen?	Suna ruwa.
+2319358	901482	What two colors are the words?	Red and white.	Waɗanne launika ne jikin kalmar?	Ja da fari.
+2352633	577425	What is on the tower?	A clock.	Mene jikin hasumiya?	Agogo.
+2352633	577424	Where is the clock?	On the tower.	Ina agogon?	Jikin hasumiya.
+2356158	382707	Where is the knife?	Right of the fork.	Ina wuƙar?	Daga damar cokalin yatsu.
+2406459	1185431	What color is the bus?	Blue.	Mene launin bas?	Shuɗi.
+2406459	1185423	Where is the lady?	Near bus.	Ina matar?	Kusa da bas.
+2398813	1527250	Where was this picture taken?	On the street.	A ina aka ɗauki wannan hoton?	A kan titi.
+2359857	1629682	Who is sitting in the cart?	Man and woman.	Suwaye suke zaune a amalanke?	Namiji da Mace.
+2403260	1278864	What keeps the sheep in?	Fence.	Me ya ajjiye tumaki waje ɗaya?	Danga.
+2385611	678949	When was the picture taken?	Daytime.	Yaushe aka ɗauki hoton nan?	Da rana.
+2332102	273749	What is beside cat's head?	Papers.	Mene kusa da kan magen?	Takardu.
+2406459	1185425	What is the lady on?	Bike.	Me matar take kai?	Keke.
+2398813	1402671	Where are the shadows?	On the ground.	Ina inuwar?	A kan ƙasa.
+2370761	1849189	Where is the row of trees?	On the road.	Ina jerin layin bishiyun?	Akan titin.
+2331263	274411	Where are these animals?	In a pasture.	Ina waƴennan dabbobin?	A cikin gona.
+2415472	934926	What co!or is lampshade?	White.	Menene launin futular?	Fari.
+2374316	1923563	What is the baby holding?	Cloth.	Me jaririyar take riƙe da?	Kaya.
+2374316	1923541	Who is holding the paper?	Small baby.	Wa ke riƙe da takardar?	Ƙaramar jaririya.
+2379989	619466	What is behind the horse?	Trees.	Menene a bayan dokin?	Bishiyu.
+2335079	399562	How many colors are in the toothbrush handle?	Three.	Launika nawa ne a jikin hannun toothbrush?	Uku.
+2374875	1935373	What is this room?	Kitchen.	Wani ɗaki ne nan?	Ɗakin girki?.
+2407162	1200404	Where are the ramps?	Behind the truck.	Ina ramps suke?	Bayan babbar motar.
+2415614	936059	What is the man and woman doing?	Taking.	Me mace da namijin suke yi?	Magana.
+2415614	936065	Who is in the photo?	A man and woman.	Waye a cikin wannan hoton?	Namiji da mace.
+2332663	273290	What is the man holding?	Wii controllers.	Me mutumin yake riƙe da?	Wii controllers.
+2332663	273292	Where is the Wii console?	On the floor.	Ina wii console yake?	Akan kasa.
+2326516	465269	What is the sky like?	Overcast.	Yaya sama take?	Wuce gona da iri.`.
+2398038	1461097	What is to the right of the water?	Building.	Menene a gefen damar ruwan?	Gini.
+2323919	865000	What color is the base?	White.	Menene launin base?	Fari.
+2345063	263545	What color is the window trim?	Blue.	Menene launin datsar tagar?	Shuɗi.
+2411258	1325871	What is in the green bottle to the upper left?	Red wine.	Menene koren kwalba daga hagu sama?	Jan ruwan inibi.
+2401317	1241511	What kind of structure is in the middle distance?	A bridge.	Wani irin tsari ne a tsakiya a nesa?	Gada.
+2338152	588986	Why are their eyes closed?	They are asleep.	Meyasa idanun su suke a rufa?	Bacci sukeyi.
+2364752	1728071	What is sitting in the wooden block?	Knives.	Me ke a kan katakon?	Wuƙaƙe.
+2356292	574522	How many people are there?	Two.	Mutane nawa ne a wurin?	Biyu.
+2366107	1754853	Who is wearing the red jacket?	The woman.	Wa ke sanye da jar jacket?	Matar.
+2393344	800753	How many elephants are facing the camera?	Two.	Giwaye nawa ke kallon kamera?	Biyu.
+2363939	1711646	What are the cats doing?	Napping.	Me maguna ke yi?	Barci.
+2393936	1567039	Where is the man's hand?	In his pocket.	Ina hannun mutumin?	A aljihun sa.
+2363837	440317	How many people are in the water?	11	Mutane nawa ne a ruwan?	11
+2405201	1155328	How big is the room where the picture was taken?	Very big.	Ya girma ɗakin da aka ɗauki wannan hoton a ciki.?	Babba ne Sosai.
+2354294	512144	How many men are there?	One.	Maza nawa ne a hoton?	Ɗaya.
+2367360	310421	What color are the sheep?	White.	Mene launin tunkiya?	Fari.
+2338114	525094	What are between the fence and the buildings?	Trees.	Mene tsakanin dungar da ginin?	Bishiyu.
+2363014	1692837	Who has black hair?	The woman.	Yaye ke da baƙin gashi?	Matar.
+2376332	1964447	What animal is displayed?	Horses.	Wacce dabba aka nuna?	Doki.
+2376332	558490	Who is in the picture?	People with horses.	Waye a hoton?	Mutane da doki.
+2336041	334811	When did the plane take off?	In the morning.	Yaushe jirgin ya tashi?	Da safe.
+2374977	1937350	What number of pizzas?	Two.	Fiza nawa ce?	Biyu.
+2402657	409501	What color is the dog's nose?	Black.	Mene launin hancin kare?	Baƙi.
+2340279	395400	How many people are showing in the image?	One.	Mutane nawa suka fito a hoton?	Ɗaya.
+2345589	646981	What color are the bananas?	Yellow.	Mene launin ayabar?	Rawaya.
+2336292	590470	How many people are there?	Four.	Mutane nawa a nan?	Hudu.
+2385255	487371	When was the pic teken?	During the day.	Yaushe aka ɗauki hoton?	Da rana.
+2410531	1104958	What color are the man's shorts?	White.	Mene ne launin wandon mutane?	Fari.
+2341416	456884	When was this photo taken?	On a trip to the subway.	Yaushe aka ɗauki wannan hoton?	Lokacin ziyarar tashar jirgin ƙasa.
+2354144	832106	How many buses are on the street?	1	Motar bas nawa ce a titi?	1
+2411351	1327681	What is over the man's head?	Large umbrella.	Mene akan mutumin?	Babbar lema.
+2351039	386799	How many people are in the image?	0	Mutane nawa ne a hoton?	0
+2414214	1020043	What shape are the fruits?	Round.	Wacce siffar ce da kayan marmarin?	Zagayayye.
+2392528	1368749	What is the woman wearing on the head?	Hat.	Me matar ke sanye dashi a kanta?	Hula.
+2408813	1068132	Where are the two benches?	Next to one another.	Ina benci guda biyu suke?	Kusa da juna.
+2387827	741161	What color is wall behind the bananas?	Green.	Mene launin bangon dake bayan ayabar?	Kore.
+2335754	526976	When was this picture taken?	Daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2336292	590472	When was the photo taken?	Daytime.	A yaushe aka ɗauki hoton ?	Da rana.
+2359580	315991	What is the number displayed on the bus?	22	Wacce lamba ke nuni a jikin bas din?	22
+2410531	1104961	What color is shirt?	White.	Menene launin rigar sa?	Fari.
+2343297	455578	When was this photo taken?	Daytime.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2415964	938863	Where is this scene?	A farm.	Ina ne nan?	Gona.
+2344495	519978	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2388959	1478041	What animal is shown?	Elephants.	Wacce dabba ce ta fito?	Giwa.
+2408406	189139	What color is the tip of the umbrella?	White.	Mene launin saman karshen lemar?	Fari.
+2363154	1695563	What is building made of?	Stone.	Dame akayi ginin?	Dutse.
+2363154	505057	How many floors is the left building?	Three.	Hawa nawa ne a gefen hagun ginin?	Uku.
+2392528	1559979	What is brown in the photo?	Suitcase.	Mene mai launin ruwan ƙasa a hoton?	Ƙaramin akwati.
+2396341	1580336	What is the yellow food on the table?	Bananas.	Wanne abinci ne mai launin rawaya a kan tebur din?	Ayaba.
+2416681	963879	How many baskets are there?	One.	Kwando nawa ne a nan?	Ɗaya.
+2390523	1358144	What material is the counter made of?	Wood.	Dame aka yi kantar?	Katako.
+2402829	601195	When was this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2401945	1471140	What is the ball's color?	Green.	Mene launin kwallon ?	Kore.
+2318638	907245	How many people are shown?	One.	Mutane nawa ne suka fito?	Ɗaya.
+2316928	920923	What is on the man's head?	A hat.	Mene akan mutumin?	Hula.
+2359279	1618369	What is next to the toilet?	A trash can.	Mene kusa da masai?	Abun zuba shafa.
+2361344	1660066	How is the image taken?	Front of camera.	Taya aka ɗauki hoton?	Ta gaban kamera?.
+2362259	1677592	What does the man have?	Bicycle.	Me mutumin ke dashi?	Keke.
+2410531	1104957	What is the man wearing as pants?	Shorts.	Me mutumin ke sanye dashi a matsayin wando?	Jageran wando.
+2365624	1745598	What has white stomachs?	Two black cows.	Meye mai launin jiki fari?	Shanu guda biyu.
+2411997	160414	When was this picture taken?	During the daytime.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2411997	160408	What is the man doing?	Riding a motorcycle.	Me mutumin ke yi?	Tuƙa babur.
+2411997	1115049	How many motorbikes are in the scene?	One.	Babur nawa ne nan?	Ɗaya.
+2328298	404998	What color is the fence?	Orange.	Mene launin dungar?	Ruwan goro.
+2373285	1902748	What is black color?	Net.	Mene baƙi?	Raga.
+2351039	386795	Where is this taken?	Kitchen table.	A ina aka ɗauki wannan?	Tebur din ɗakin girki.
+2374734	495791	What color is the building?	Red.	Mene launin ginin?	Ja.
+2402829	1269704	What are the zebras doing in the water?	Crossing the river.	Me jakin dawa yake yi a ruwa?	Tsallake kogi.
+2402829	601199	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2395872	1386787	What condition is the road in?	Wet.	Ya yanayi titin yake?	A jiƙe.
+2318638	907243	When was the photo taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2379559	363978	How many cats are pictured?	One.	Maguna nawa aka nuna?	Ɗaya.
+2412914	1136122	What color is the scissors?	Orange.	Menene launin almakashin?	Orange.
+2353318	384983	How many women are there?	One.	Mata nawa ne a wurin?	Ɗaya.
+2360930	1651892	What is on the ground?	Brush.	Menene a ƙasa?	Brush.
+2372344	1882681	Where is the man skateboarding?	Halfpipe.	Ina mutumin yake skateboarding?	Rabin pipe.
+2410531	1104967	What is court made of?	Clay.	Da me akayi filin?	Taɓo.
+2370181	1837598	Where is this meal taking place?	A restaurant.	Ina cin abincin na  ke faruwa?	Gidan abinci.
+2346879	390121	Where is the Eiffel Tower?	Reflected in the mirror.	Ina Eiffel Tower?	Sake cika cikin madubi.
+2413695	1012203	Where are the animals?	In the grass.	Ina dabbobin suke?	A cikin ciyawa.
+2413695	1012191	What is in the background?	Bushes.	Menene a baya?	Ciyayi.
+150324	1000599	How many men are standing?	One.	Maza nawa ne a tsaye?	Ɗaya.
+2361225	826438	What color is the man's hat?	Gray.	Menene launin hular mutumin?	Ruwan toka.
+2397109	605769	What color is the canopy?	Green and white.	Menene launin rumfar?	Kore da fari.
+2397109	605765	What color are the traffic lights?	Green.	Menene launin futulun zirga-zirga.?	Kore.
+2357684	829280	What are the horses standing on?	Dirt.	Me dawakan suke tsaye akai?	Ƙasa.
+2375798	366994	What is the person walking on?	A sidewalk.	Me mutumin yake tafiya a kai?	Titin gefen hanya.
+2378366	748736	What colors are the blanket?	Red, white, and blue.	Wasu launika a jikin bargon?	Ja, fari da shudi.
+2363014	1692843	Where is the nose?	On the girl.	Ina hancin?	Jikin yarinyar.
+2376332	1964442	What item is near the shore?	Sand.	Wanne abu ne ke kusa da gaɓa ruwa?	Ƙasa.
+2387827	741159	How man men are in the picture?	Two.	Maza nawa na a hoton?	Biyu.
+2318683	906885	What color are the curtains?	White.	Mene launin labulen?	Fari.
+2337237	459615	What color is the floor?	Black.	Mene launin ƙasan daɓan?	Baƙi.
+2412914	1136141	How many people are there?	None.	Mutane nawa ne a nan?	Babu.
+2374619	367934	Who is in the picture?	No one.	Waye a hoton?	Babu kowa.
+2334471	719844	What is red?	Kite.	Mene Ja?	Jirgin keda.
+2361225	982241	Where was the picture taken?	In a park.	A ina aka ɗauki hoton?	A lambu.
+2357684	829281	What is in the background?	A fence.	Mene a kasan bayan hoton?	Dunga.
+2402216	409858	What other person can be seen?	A cyclist.	Wanne mutumin ake iya gani kuma?	Mai tuka keke.
+2334271	720007	What is the man sitting on?	A motorcycle.	A kan me mutumin ke zaune?	Babur.
+2334271	720010	How many bikes do you see?	1 bike.	Babur nawa kake iya gani?	Babur ɗaya.
+2399248	604062	What is the room?	A bathroom.	Ɗakin mene ne?	Banɗaki.
+2368617	436543	Where is the carpet?	On the floor.	Ina kafet din?	Yana daɓe ƙasa.
+2396341	285791	What fruit is on the white plate on the table?	Plantains.	Wanne kayan marmari ne a kan farin faranti akan tebur?	Agada.
+2332982	273040	When was this image taken?	Winter.	Yaushe aka ɗauka wannan hoton?	Hunturu.
+2355145	965015	What is behind the sink counter top?	A mirror.	Menene a bayan saman kantar sink ɗin?	Madubi.
+2318683	906884	Who is with the man?	No one.	Waye tare da mutumin?	Babu kowa.
+2361344	1660073	What are the women eating?	Hot dog.	Me matan suke ci?	Hot dog.
+2335754	526980	What color are the leaves outside?	Red.	Wani launi ne da ganyanyakin dake waje?	Ja.
+2379559	363976	What kind of animal is this?	Cat.	Wacce irin dabba ce wannan?	Mage.
+2402203	1257937	What are the fluffy things in the sky?	Clouds.	Wasu abubuwa masu laushi ne a sama?	Gajimare.
+2358603	252766	How many machines are there?	One.	Nawane adadin na'urori a gurin?	Ɗaya.
+2362259	1677582	What shade are the majority of the bricks on the building?	Red.	Wani launi ne da yawancin bulo ɗin ginin?	Ja.
+2362259	377817	What is in the black containers?	Flowers.	Menene a cikin baƙaƙen mazubin?	Furanni.
+2374619	1930137	What are the door handles on the refrigerator made of?	Wood.	Da me aka yi mariƙin ƙofar a jikin firjin?	Katako.
+2370181	1837597	What type of bread is shown?	Garlic bread.	Wani irin biredi aka nuna?	Biredin tafarnuwa.
+2343297	455583	What color are the leaves on flowers?	Green.	Wani launi ne da ganyanyakin jikin furannin?	Kore.
+2413695	146831	What is behind the giraffes?	Trees.	Menene a bayan raƙuman dawan?	Bishiyoyi.
+2344495	519977	What type of ground is there?	Grass.	Wani irin ƙasa ne a gurin?	Ciyawa.
+2378808	620415	How wheels does the vehicle have?	Two.	Nawa taya abin hawan yake da shi?	Biyu.
+2375798	1953190	What is the man in front of?	The ocean.	A gaban me mutumin yake?	Tekun.
+2324913	857044	What food tops the dish in the foreground?	Rice.	Wani abinci ne a saman haɗin abincin a gaban?	Shinkafa.
+2411351	1327672	Who is on the man's shirt?	Jesus.	Waye a jikin rigar mutumin?	Yesu.
+2334271	720008	What color is the bike?	Royal blue and white.	Wani launi ne da babur ɗin?	Shuɗin sarauta da fari.
+2334271	720004	What is the man holding?	A gun.	Me mutumin yake riƙe dashi?	Bindiga.
+2362649	633339	What are the walls made of?	Glass.	Da me akayi bangon?	Gilashi.
+2365624	822923	How many cows in the fence?	Four cows.	Nawane adadin saniyoyi a cikin shingen?	Saniyoyi huɗu.
+2389565	803767	What does the woman have around her neck?	A scarf.	Me matar take da shi zagaye da wuyan ta?	Ƙyalle.
+2407122	1199526	What time of day?	Noon.	Wani lokacin rana?	Tsakiyar rana.
+2411997	1115052	What color is the helmet?	Yellow.	Wani launi ne da hular kwanon?	Ruwan ɗorawa.
+2338114	525092	What is in the background of the picture?	A building.	Menene a bayan hoton?	Gini.
+2410830	169745	When was this pic taken?	During the day.	Yaushe aka ɗauka hoton?	Da rana.
+2408406	1059233	What is the color of the water?	Green.	Menene launin ruwan?	Kore.
+2368617	1806528	Where is the bed?	Front of a window.	Ina gadon?	A gaban tagar.
+2368617	1806529	What is the sunlight shining through?	Window.	Ta cikin ina hasken ranar yake haskowa?	Taga.
+2399850	1209737	How is the hair done?	Spiked.	Yaya aka gyara gashin?	A tsaye.
+2352961	321276	How many flower arrangements can you see?	Two.	Nawa ne adadin gyaran furanni da ka iya gani?	Biyu.
+2396341	285789	Who is holding a helmet?	The woman in front.	Waye riƙe da hular kwano?	Matar gaban.
+2374977	1937344	What is floral and white?	Shirt.	Menene mai furanni kuma fari?	Riga.
+2318638	907246	Who has the surfboard?	The man.	Waye yake da allon hawan igiyar ruwan?	Mutumin.
+2332982	273041	How many people are shown?	One.	Nawane adadin mutanen da aka nuna?	Ɗaya.
+2355145	964467	What color is the sink?	White.	Wani launi ne da sink ɗin?	Fari.
+2359279	380204	What color are the towels?	White.	Wani launi ne da tawul ɗin?	Fari.
+2361344	1660068	How the hot dog holding?	Hand.	Yaya riƙewan Hot dog ɗin?	Hannu.
+2402203	217880	Where was the picture taken?	High St.	A ina aka ɗauka hoton?	High St.
+2362601	1684412	What is the man doing?	Skiing.	Me mutumin yake yi?	Sulun ƙanƙara.
+2358603	252761	Who is in the picture?	No one.	Waye a cikin hoton?	Babu kowa.
+2359580	1624257	What is the sidewalk and street made of?	Paving stone.	Da me akayi gefen hanyan da titin?	Dutse mai shimfida.
+2372344	1882670	Where are the parked cars?	On the street.	Ina ajiyayyun motocin?	A kan titi.
+2410531	1104968	What is photo of?	Man tossing tennis ball.	Hoton menene?	Mutumi yana jefa ƙwallon tanis.
+2353356	448306	What color is the chair?	Blue.	Wani launi ne da kujerar?	Shuɗi.
+2353356	448304	How many people are in this picture?	One.	Nawane adadin mutane a cikin wannan hoton?	Ɗaya.
+2343297	455582	What color is the tablecloth?	Red and blue.	Wani launi ne da ƙyallen tebur ɗin?	Ja da shuɗi.
+2346879	390123	What city is this?	Paris.	Wani birni ne wannan?	Paris.
+2357684	829276	When was this photo taken?	Outside, during the daytime.	Yaushe aka ɗauka wannan hoton?	A waje, da rana.
+2354144	832107	What company runs the bus?	Hertz.	Wani kamfani ne ke tafiyar da bas ɗin?	Hertz.
+2402216	1258153	What type of shirt is the man wearing?	Polo.	Wace irin riga mutumin yake sanye da ita?	Polo.
+2342125	841719	Who is looking directly at the photographer?	A girl.	Waye ke kallon mai hoton kai tsaye?	Yarinya.
+2367980	1792639	What is on the other side of the lake?	The trees.	Mene a ɗayan gefen tafkin?	Bishiyu.
+2334365	847922	How many people?	Four.	Mutane nawa?	Hudu.
+2416681	963877	What color are the leaves?	Green.	Mene launin ganyayyakin?	Kore.
+2395872	1386784	What is the girl holding a right hand?	2 bags.	Me yarinyar ke riƙe dashi a hannun dama?	Jakunkuna biyu.
+2395872	1386782	Where is the girl standing?	In the street.	Ina yarinyar ke tsaye?	A titi.
+2398614	1526335	How is the dog?	The dog is white.	Ya karen yake?	Karen fari ne.
+2316928	920924	What color is the water?	Gray and white.	Mene launin ruwan?	Ruwan toka da fari.
+2334471	719848	Where is a kite?	In the air.	Ina jirgin ledar?	A kan iska.
+2353356	448305	What type of animal is that?	A dog.	Wanne irin dabba waccan?	Kare.
+2346879	390122	How many mirrors are visible?	One.	Madubi nawa ake gani?	Ɗaya.
+2361117	1655907	What is the man wearing?	Coat.	Me mutumin ke sanye dashi?	Kwat.
+2338114	525089	Where is the skateboard?	In the air.	Ina allon sulun ƙanƙara?	A iska.
+2328298	975368	Where was the photo taken?	In the snow.	A ina aka ɗauki hoton?	A cikin dusar ƙanƙara.
+2367980	302485	When was this picture taken?	Daytime.	Yaushe aka ɗauka hoton?	Lokacin rana.
+2367980	302483	How many benches are there?	One.	Benci nawa ne a nan?	Ɗaya.
+2399850	1209732	What is the bed beside?	Window.	A gefen me gadon yake?	Taga.
+2336041	334808	What is in the sky?	An airplane.	Ina ne a sararin samaniya?	Jirgin sama.
+2352961	321279	Where are the flowers?	In a vase.	Ina furannin?	A cikin tukunya.
+2374734	495793	Where is the light?	Above the bus.	Ina fitular?	Saman bas.
+2416681	963876	When was the picture taken?	Daytime.	Yaushe aka ɗauka hoton?	Lokacin rana.
+2408813	1068156	What color is the grass?	Green.	Wani launi ne da ciyawan?	Kore.
+2387827	741157	What is the man doing that's standing in the photo?	Touching the bananas.	Me mutumin dake tsaye yake yi dake cikin hoton .?	Taba ayaba.
+2337237	459614	Where is the dog?	In the kitchen.	Ina karen?	Cikin madafan.
+2379559	363980	What color is the cat's back flank?	Black.	Wani launi ne da bayan kwankwason magen?	Baƙi.
+2370181	308986	What color is the tablecloth on the table?	White.	Mene launin mayafin tebur in dake kan tebur?	Fari.
+2359450	1621569	What is in front of the buses?	A city.	Menene a gaban bas ɗin?	Birni.
+2344495	519979	What kind of animal is there?	A zebra.	Wanne irin dabba ce a nan?	Jikin dawa.
+2397109	605766	What color is the statue?	Grey.	Wani launi ne da gunkin?	Ruwan toka.
+2402216	1258142	What race is the boy?	Asian.	Wanne kabila ne yaron?	Dan Asiya.
+2338114	525087	What is the boy doing in the picture?	Skateboarding.	Me yaron yake yi a cikin hoton?	Sulun allo mai taya.
+2363014	1692841	Where is the eye?	On the girl.	Ina idon?	A jikin yarinyar.
+2414214	1024792	What types of food are these?	Fruits.	Wasu irin abinci ne wa'ennan?	Ya'yan itatuwa.
+2399850	1209742	Where is the boy's index finger?	In his mouth.	Ina yatsan nunin yaron?	A cikin bakin shi.
+2336041	334815	How does the plane fly?	Jet engines.	Ta yaya jirgin saman yake tashi?	Injin ɗin jet.
+2407281	1203119	Where is the man?	In the water.	Ina mutumin?	A cikin ruwan.
+2323128	871323	What colors are the street lines?	Yellow and white.	Wasu launuka ne da layukan titin?	Ruwan ɗorawa da fari.
+2323128	871322	What is in the background?	Trees.	Menene a bayan?	Bishiyoyi.
+2334365	847929	Where is black dress?	Woman in foreground.	Ina baƙar rigar?	Matar gaban.
+2402657	409503	What can be seen outside the vehicle?	A road.	Menene ake iya gani a wajen abun hawan?	Hanya.
+2395872	542879	Who is in the picture?	A young woman.	Waye a cikin hoton?	Budurwa.
+2340279	395403	What spicy vegetable is a topping?	Jalapeno pepper.	Wani ganye mai yaji ne a saman?	Attaruhun jalapeno.
+2332982	273047	What color is the man's goggles?	Orange.	Wani launi ne da gogul ɗin mutumin?	Ruwan lemo.
+2345486	775040	Where is this picture taken?	On a railroad.	A ina aka ɗauki wannan hoton?	Akan titin jirgin ƙasa.
+2337237	459608	Who is in the photo?	The woman.	Waye a hoton?	Mace ce.
+2353318	384981	What is hanging from the woman's ear?	Earrings.	Meye rataye a kunnan matar?	Ɗankunne.
+2353318	384976	What color is the plate?	White.	Mene launin farantin?	Fari.
+2338538	396805	What is the color of the sky?	Blue.	Mene launin sararin samaniya ?	Shuɗi.
+2333489	656645	Where is the stove?	Kitchen.	Ina murhun?	Madafa.
+2354144	832111	Where is the bus?	On the street.	Ina bas ɗin?	A kan titi.
+2361117	1655900	Where is the door?	Behind the man on the left in the back.	Ina ƙofar?	A bayan mutumin dake hagu a baya.
+2411351	165577	What is shading the man?	Umbrella.	Menene ya rufe mutumin?	Lema.
+2325842	278595	How many kites are there?	Two.	Nawane adadin jiragen leda a gurin?	Biyu.
+2365624	822922	What is on the ground?	Snow.	Menene a ƙasa?	Dusar ƙanƙara.
+2367360	1779544	Where is the wool?	On the sheep.	Ina gashin tunkiyan?	A jikin tunkiyan?.
+2378366	748737	How many brown cats?	2	Nawane adadin maguna ruwan ƙasa?	2
+2378366	748730	How many cats?	3	Nawane adadin mage?	3
+2378366	748732	What color is the grass?	Green.	Wani launi ne da ciyawan?	Kore.
+2411997	1115056	What color are the numbers in the motorcyclist?	Red.	Wani launi ne da lambobin jikin mai tuƙin babur ɗin?	Ja.
+2408406	1059245	What is the boat made of?	Wood.	Da me akayi kwalekwalen?	Itace.
+2342125	841715	How many people are in the picture?	Three.	Nawane adadin mutane a cikin hoton?	Uku.
+2342125	841718	Where are the children?	Lying in the water.	Ina yaran?	Kwance a cikin ruwan.
+2399850	1209740	How does the boy's forehead look?	Furled.	Kamar yaya goshin yaron yayi?	A tattare.
+2399850	667568	Where was the picture taken?	In a bedroom.	A ina aka ɗauka hoton?	A cikin ɗakin kwana.
+2407281	1203108	What is the man holding?	Ropes.	Me mutumin yake riƙe dashi?	Igiyoyi.
+2323128	871327	Who is pulling the cart?	A horse.	Waye yake jan amalanken?	Doki.
+2402829	1269710	What's the color of the water?	Brown.	Menene launin ruwan?	Ruwan ƙasa-ƙasa.
+2401945	1532261	What sport is the boy playing?	Tennis.	Wanne wasa yaron yake yi?	Tanis.
+2332982	273043	What sport is the man doing?	Skiing.	Wani wasa mutumin yake yi?	Sulun ƙanƙara.
+2318683	906882	When was the photo taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2345486	775035	What color is the train?	Blue and yellow.	Mene launin jirgin ƙasa?	Shuɗi da rawaya.
+2336292	590474	Where was the photo taken?	At a baseball field.	A ina aka ɗauka hoton?	A filin baseball.
+2380355	491291	When is the photo taken?	Daytime.	Da yaushe aka ɗauki hoton ?	Da rana.
+2338538	396802	What is the man wearing?	Long sleeve shirt.	Me mutumin yake riƙe dashi?	Riga mai dogon hannu?.
+2370181	1837592	What is on the plate?	Vegetables.	Mene akan farantin?	Kayan lambu.
+2375798	1953184	What is the man holding?	An umbrella.	Me mutumin yake riƙe dashi?	Lema.
+2367360	310419	What are the sheep doing?	Feeding.	Me tunkiyoyin ke yi?	Cin abinci.
+2336041	334809	Where is the plane from?	Canada.	Daga ina jirgin saman yake?	Canada.
+2374977	1937352	What number of men are eating?	Three.	Mutane nawa ke cin abinci?	Uku.
+2402657	1266260	What animal is shown?	Dog.	Wacce dabba ake gani?	Kare.
+2340279	395407	How many fingers are showing?	Seven.	Yatsu nawa ake gani?	Bakwai.
+2316928	920928	When was the picture taken?	Daytime.	A yaushe aka ɗauki hoton?	Da rana.
+2378578	364772	What is on the woman's face?	Glasses.	Mene a fuskar matar?	Madubi ido.
+2336868	653953	How many people are clearly visible?	Zero.	Mutane nawa ake iya gani sosai?	Babu.
+2402203	1257946	Where are the street signs?	On top of the stop sign.	Ina alamar titi?	Saman alamar tsayawa.
+2336292	590471	What sport is being played?	Baseball.	Wanne wasa aka bugawa?	Basbal.
+2360930	1651885	What is in the image?	Giraffe.	Menene a jikin hoton?	Raƙomin dawa.
+2343297	455579	How are the flowers arranged?	In vase.	Yaya aka shirya furannin?	Tukunyar furrai ta gilashi.
+2343297	455580	What color are the flowers?	Yellow.	Wana launi ne furran?	Launin ɗorawa.
+2346879	390125	What color is the road?	Grey.	Wana launi ce hanyar?	Launin toka.
+2378808	620414	Where is the man riding?	In the street.	A ina mutumin yake tuƙi?	A titi.
+2324913	857042	What items are displayed here?	Food.	Waɗanna abubuwa ne aka nuna a nan?	Abinci.
+2324913	857048	What seafood item is part of the dish on the left?	Shrimp.	Wana abincin ruwa ne ke cikin abincin dake ɓarin hagu?	Ƙaguwa.
+2334271	720009	Who is he pointing to?	The spectators.	Wa yake nunawa?	`Yan kallo.
+2362649	1685484	What is in the glasses?	Wine.	Menene acikin gilasan?	Giya.
+2410830	1316963	Where is the truck parked?	On pavement.	A ina aka ajiye tankar?	A kan titi.
+2363154	505060	What is the main color of the road sign?	Red.	Menene babbar launin  alamar hanyar?	Ja.
+2414214	1024788	How many oranges are shown?	4	Lemuka nawa aka nuna?	4
+2377223	1981496	What is on the woman's t-shirt?	White, purple and green letters.	Menene akan tishit din matan?	Fari,shunayya da koren haruffa.
+2345589	646980	When was this photo taken?	During the day.	Yaushe aka ɗauki wannan hoton?	A cikin yini.
+2335754	526977	What type of animal is in the picture?	Cat.	Wana irin dabba ne ajikin hoton?	Mage.
+2380072	555501	Who is in the pic?	No one.	Waye a hoton?	Babu kowa.
+2408925	1070513	Where is the cat standing?	In a bowl.	A ina magen ke tsaye?	A cikin kwano.
+2332812	593257	What color is the fruit?	Green and brown.	Mene launin abun marmari?	Kore da ruwan ƙasa.
+2386985	805833	When was this photo taken?	Outside, during the daytime.	A yaushe aka ɗauki wannan hoton?	Waje, da rana.
+2386985	805828	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2377924	1991983	What item is used to hear?	Ears.	Wanne abu ake anfani dashi wajan ji?	Kunne.
+2334064	848177	What color is the sign?	Yellow and red.	Mene launin alama ?	Rawaya da ja.
+2417901	954359	How many children wearing hats?	One.	Yara nawa ke sanye da hula?	Ɗaya.
+2333844	848348	Who is standing on the tracks?	No one.	Wake tsaye a hanyar jirgin ƙasan?	Babu kowa.
+2406916	1195549	Where is window?	The office.	Ina tagar?	A ofis.
+2403741	1289301	Where are the zebras?	In grass.	Ina dakunan dawa?	A ciyawa.
+2372034	1876113	What is on the table?	The white plate.	Mene akan tebur din?	Farin faranti.
+2372034	497951	How much pizza remains on the table?	One slice.	Fiza nawa ce tayi ragowa a kan tebur?	Yanka ɗaya.
+2323235	870472	Where is the girl in the picture?	Inside a vehicle.	Ina yarinyar a hoton?	Cikin abin hawa.
+2401712	1249569	What's the number of giraffes in the picture?	2	Raƙumin dawa nawa ne a hoton?	2
+2372104	1877480	What is orange and black?	The wheels.	Mene mai ruwan goro kuma baƙi?	Ƙafafu.
+2335167	783286	What is it made of?	Wood.	Dame akayi shi?	Katako.
+2394763	1380636	Where is the mirror?	On the wall.	Ina madubin?	Jikin bango.
+2405085	1152976	Who is riding the horse?	A person.	Waye ya hau doki?	Mutane ne.
+2398981	1528062	Why is the person in the air?	They jumped.	Meyasa mutumin yake cikin iska?	Sunyi tsalle ne.
+2332221	337866	Where is this scene?	Beach.	Ina ne hakan?	Gefen ruwa.
+2332221	337868	Why is it bright?	The sun.	Meyasa yayi haske?	Saboda rana.
+2390299	1356816	What is this food?	A cake.	Wanne abinci ne?	Kek.
+2373259	369019	How many bald adults are there?	Two.	Maza nawa ne marassa gashi a wajan?	Biyu.
+2360918	1651593	What amount of colors on bus?	Three.	Launika nawa ne a jikin motar bas din?	Uku.
+2315483	932487	When was the picture taken?	Daytime.	Da yaushe aka ɗauki hoton?	Da rana.
+2351388	978825	Where was the photo taken?	In the zoo.	A ina aka ɗauki hoton?	A gidan ajjiye namomin daji.
+2325181	343487	What plant is partially visible?	Tree.	Wacce shuka ce ake ɗan ganin ta?	Bishiya.
+2325217	465839	Who has a tail?	A horse.	Waye yake da jela?	Doki.
+2382489	617464	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2407228	1201919	What color is the writing on the boat?	Black.	Mene launin rubuta jikin kwalekwale?	Baƙi.
+2333612	592617	What color are the plates?	White.	Mene launin farantan?	Fari.
+2363917	1711177	What number is in the circle?	60	Wacce lamba ce aka zagaye?	60
+2366157	1755957	Where is the water?	Under the horse.	Ina ruwan yake?	Kasan dokin.
+2368217	1797647	Where are many small windows?	On the planes.	A ina ƙananun taga suke masu yawa?	A jikin jirgin sama.
+2346599	390349	What color are the flowers?	Yellow.	Mene launin furanni ?	Rawaya.
+2342457	456216	Where is this scene taking place?	Outdoors.	A ina haka ne faruwa?	A waje.
+2366573	1764371	Where is the face?	On dog.	Ina fuskar?	Jikin karen.
+2330616	463346	What time of day is it?	Nighttime.	Wanne lokaci ce wannan?	Da dare.
+2358256	1596900	What type of bird is this?	A hawk.	Wanne irin tsuntsu ne?	Shaho.
+2377924	1991985	What item has a metal handle?	A umbrella.	Wanne irin abun ne mai hannun ƙarfe?	Lema.
+2334064	848174	What color are the man's pants?	Blue.	Mene launin jirgin wandon mutumin?	Shuɗi.
+2333844	848347	What color are the train's stripes?	Orange.	Mene launin layin dake jikin jirgin ƙasan?	Ruwan goro.
+2403741	1289280	Where are the zebras?	Wild.	Ina jakunan dawa?	A daji.
+2355345	831140	What color are the shirts of the men?	White.	Wanne launin riga ce a jikin mazen?	Fara.
+2406991	200461	How many men are there?	Two.	Maza nawa ne a nan?	Biyu.
+2365424	1741609	What is the bench made of?	Wood.	Dame akayi bencin?	Katako.
+2323235	870468	Where is the wrist watch?	Left wrist.	Ina agogon hannun?	Yana hannun hagu.
+2393112	545094	Where is the clock tower?	Beside a building.	Ina agogon hasumiya?	Kusa da ginin.
+2328845	852342	What color is the ball?	White.	Mene launin kwallon?	Fari.
+2328845	852344	What color are the wheels?	Black and gray.	Mene launin ƙafafu?	Baƙi da ruwan toka.
+2377160	1980445	What type of birds are the smaller birds?	Ducks.	Wacce irin tsuntsu ne ƙanana.?	Agwagwa.
+2394499	1505895	Where is the dog?	On a pillow.	Ina karen?	Yana kan matashin.
+2394499	352029	What is the dog on?	The pillow.	Akan me karen yake?	Kan matashi kai.
+2412517	156249	What color is the table?	Brown.	Mene launin tebur din?	Ruwan ƙasa.
+2412517	1126497	What is behind the food?	A window with a closed curtain.	Mene a bayan abincin.?	Taga da rufaffen labule.
+2332221	337864	How many umbrellas?	1	Lema nawa ne?	1
+2332221	337870	What is in the background?	Boat.	Mene a ƙasan bayan hoton?	Jirgin ruwa.
+2405531	1162832	What color is the elephant?	Grey.	Mene launin giwar?	Ruwan toka.
+2361427	1661760	Where is the pizza?	Board.	Ina fiza din?	Kan abun katakon.
+2316213	926642	What does the sign say?	Carrots $3.50 a bunch.	Me ake ce a jikin alamar?	Karas $3.50 duk dauri.
+2373259	369023	How many blue bibs are visible?	One.	Shuɗin bib nawa ake iya gani?	Ɗaya.
+2341475	522394	Who is on the bike?	The man.	Waye kan keke?	Namijin.
+2338525	844599	What is in the background?	Trees.	Mene ne a ƙasan bayan hoton?	Bishiyu.
+2315483	932488	What color are the rocks?	Gray.	Mene launin dutsen?	Ruwan toka.
+2324028	864129	Who are the people in the picture?	Man and woman.	Suwa mutanan dake jikin hoton?	Maza da mata.
+2365859	1750024	What are elephants doing?	Drinking.	Me giwar take yi?	Shan ruwa.
+2364367	1720506	Where is this photo taken?	On a city street.	A ina aka ɗauki wannan hoton?	A kan titi cikin gari.
+2387978	1535700	Where is the tree?	In front of the clock tower.	Ina bishiya?	A gaban hasumiya agogo.
+2408925	184987	Why is the cat eating?	It is hungry.	Meyasa mage ke cin abinci?	Tana jin yunwa.
+2322820	873792	What color is the cow?	Brown and white.	Menene launin jikin San.?	Ruwan ƙasa.
+2409878	1091796	Who is wearing gloves?	Players.	Waye yake sanye da safar hannun?	Yan wasa.
+2410402	1110335	What is in the water?	Large rocks.	Mene a cikin ruwan?	Mayan dutse.
+2411204	1324734	Who is wearing red?	Girl with long hair.	Wake sanye da jar riga?	Yarinya mai dogon gashi.
+2410132	1097176	Where is the fence?	Behind the trees.	Ina dangar?	Bayan bishiyu.
+2406154	1177059	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2408925	1070497	Where is cat food?	In two bowls.	Ina abinci mage?	A kwanika biyu.
+2408084	191715	What is the man doing?	Skateboarding.	Me mutumin ke yi?	Wasan sikebod.
+2392157	1366764	What is in the front window of the bus?	Sign.	Mene ne a gaban tagar motar bas din?	Alama ce.
+2374875	1935340	Where is the teapot positioned?	Back right burner.	Ina tukunyar shayin take?	Akan murhun baya na dama.
+2343628	648558	What color is the cellphone?	Black.	Mene launin jikin wayar salula?	Baƙa.
+2353308	640813	Where are the Dali banners displayed?	On the side of the building.	A ina aka sanya tutocin Dali?	Daga gefen ginin.
+2346613	582204	What kind of animal is in the picture?	A dog.	Wanne irin dabba ce a hoton?	Kere.
+2391897	1492379	Where is the round white decoration?	On the clock tower.	Ina farin zagayayye abin adon?	Kan hasumiya agogo.
+2374875	1935341	What appliance is this?	Stove an oven.	Wanne kayan amfani ne wannan?	Abun girki da abun gashi.
+2318313	909847	What color is the building?	White.	Mene launin gini?	Fari.
+2415614	936061	What is on the woman's hip?	A purse.	Mene a kugun matar?	Ƙaramar jaka.
+2338734	524594	What colors are the cows?	Brown and white.	Mene launin jikin shanu?	Fari da ruwan ƙasa.
+2386251	678438	When is this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2326516	465268	When is this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2326516	465264	What type of animals are pictured?	Elephants.	Wanne irin dabbobi aka ɗauka hoton?	Giwaye.
+2321264	886234	When was this photo taken?	Daytime.	A yaushe aka ɗauki wannan hoton د?	Da rana.
+2365326	1739584	What kind of picture is on the right?	Black and white.	Wanne irin hoton ne a dama?	Baƙi da fari.
+2376147	750504	What are the small red balls?	Cherry tomatoes.	Mene ne ƙananu kuma jajayen kwallo?	Tumatur.
+2401318	1241529	What is the main color of the letter C?	White.	Mene ainihin launin harafun C?	Fari.
+2378419	364893	What color is the bike's tire?	Black.	Mene launin tayar babur din?	Baƙi.
+2332102	273748	When was picture taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2352633	577421	What time does the clock say?	14:35:00	Ƙarfe nawa agogon yace?	14:35:00
+2375565	1948360	What is hanging in front of the bike?	A black bag.	Mene rataye a gaban babur din?	Baƙar jaka.
+2384078	360374	What two colors are on the flag painted on the train?	Red and blue.	Waɗanne launika ne guda biyu a jikin tutar da akayi fentin ta jikin jirgin ƙasan.?	Ja da shuɗi.
+2356158	382706	Where is the fork?	Right of the plate.	Ina cokalin yatsu yake?	Dama da farantin.
+2368690	1807937	Who is sitting in a chair?	An athlete.	Waye ke zaune a kujera?	Dan wasa.
+2381594	490309	What color is the side of the train?	Red.	Mene launin gefen jirgin ƙasan?	Ja.
+2404093	1296194	What is the main color of the leaves?	Green.	Mene ainihin launin ganyayyakin?	Koraye.
+2349854	515698	What are the foods on?	Board.	Me abincin yake kai?	Kan abun katako.
+2326386	790316	When was this picture taken?	In the daytime.	Yaushe aka ɗauki wannan hoton m?	Da rana.
+2415472	934925	Where is person with white shirt?	On right.	Ina mutumin dake sanye da farar riga?	Gefen dama.
+2398174	477046	What color is the street?	Gray.	Mene launin titin?	Ruwan toka.
+2403452	536817	How many planes do you see?	One.	Jirgin sama nawa aka gani?	Ɗaya.
+2376147	750499	When is the picture taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2412490	1125878	What is painted green?	The bus.	Mene mai fenti kore?	Bas ce.
+2339629	651738	What are the sheep eating?	Grass.	Me tumaki ke ci?	Ciyawa.
+2393344	800747	What animals are in the picture?	Elephants.	Wanne dabbobi ne a hoton?	Giwaye.
+2375565	1948355	What is orange on the bike?	The turn signals.	Mene mai launin ruwan goro a babur din?	Alamar juyawa.
+2394870	671548	What is present?	A train.	Mene a nan?	Jirgin ƙasa.
+2387890	1535241	Where is this picture taken?	A street.	A ina aka ɗauki wannan hoton?	A titi.
+2363837	440319	How many of the people are women?	4	Mata nawa a cikin mutanen?	4
+2379989	619461	When was this photo taken?	During the day.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2364025	1713470	Where are the boy's hands?	On his knees.	A ina hannayen yaron suke?	Akan gwiwar sa.
+2338734	524591	Where are the cows?	In a field.	Ina shanu?	A fili.
+2338734	524592	Who is in the picture?	No one.	Waye a hoton?	Ba kowa.
+2338734	524597	How many cows can be seen?	4	Shanu nawa ake iya gani?	4
+2334735	527785	What color are the majority of the boats?	White.	Wanne launin mafi yawan jirgin ruwa suke dashi?	Fari.
+2398038	1461093	What are the boats floating in?	Water.	Jirgin ruwan suna yawo a Ina?	Ruwa.
+2403260	1278855	Where are the sheep?	In the front field.	Ina tunkiyoyi suke?	A gaban fili.
+2410331	1101343	What is the color of the wall?	White.	Mene launin bangon?	Fari.
+2350144	835312	When was the photo taken?	Day time.	Yaushe aka ɗauki hoton?	Da rana.
+2393406	1438705	What is near the umbrella?	Trees.	Mene kusa da lema?	Bishiyu.
+2376147	750503	Who is eating?	The people.	Wake cin abinci?	Mutane.
+2323919	864997	How many blue and white players are shown?	Two.	Yan wasa masu shuɗi da fari nawa aka nuna?	Biyu.
+2378419	364889	Who is in the photo?	Nobody.	Waye a hoton?	Ba kowa.
+2411258	1325860	What's the color of the table?	Brown.	Mene launin tebur din?	Ruwan ƙasa.
+2338152	588982	What animals are in the picture?	Lambs.	Wacce dabbobi ne a hoton?	Tumaki.
+2412490	156464	Who are riding on the buses?	People.	Suwaye suka hau motoci bas?	Mutane.
+2385611	678954	Where is the cat lying?	In the sunlight.	Ina magen ke kwance ?	A cikin rana.
+2356292	574521	Who is behind the table?	Women.	Waye a bayan tebur din?	Mata ne.
+2341544	842186	How is the weather?	Sunny.	Ya yanayi garin ?	Rana.
+2383236	424951	What color is the paper?	White.	Mene launin jikin takardar?	Fari.
+2406459	204714	How many motorcycles are there?	One.	Babur nawa ne a nan?	Ɗaya.
+2370761	1849218	What is lighting up the scene?	The sun.	Me ya haskaka yanayi?	Rana.
+2354294	512145	Why is the man wearing glasses?	To see clearly.	Meyasa mutumin ya saka madubi idanu?	Ya gani sosai.
+2359857	1629674	Where is the window?	On the building.	A ina tagar take.?	A jikin gini.
+2346613	582205	How many dogs are in the picture?	One.	Karnika nawa ne a hoton?	Ɗaya.
+2372504	1886259	Where are the trees?	On the edge of the water.	Ina bishiyun suke?	A gaɓar ruwa.
+2332663	273295	What color are the boys shorts?	Blue.	Mene launin wandon yaron?	Shuɗi.
+2398174	477043	When was the photo taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2398038	1589324	What is seen in the distance?	Mountains.	Me ake gani a can nisa?	Tsauni.
+2319425	900951	What color is the sky?	Blue.	Mene launin sararin samaniya?	Shuɗi.
+2339629	651736	Where is the fence?	To the left of the sheep.	Ina dangar?	Daga damar tumaki.
+2375565	1948359	What is all over the tire?	Mud.	Mene a jikin taya?	Taɓo.
+2384078	360373	How many train windows are pictured?	Five.	Tagogin jirgin ƙasa nawa ne a hoton?	Biyar.
+2383236	424948	What color is the cat?	Grey.	Mene launin jikin magen?	Ruwan toka.
+2331263	274412	When was this photo taken?	Daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2374316	432064	Why is she smiling?	For the pic.	Meyasa take murmushi?	Saboda hoton.
+2379989	619463	What color is the girl's shirt?	Blue.	Mene launin rigar yarinyar?	Shuɗi.
+2345970	710670	When was this photo taken?	Daytime.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2345970	710667	Who is in the sky?	A bird.	Waye a sararin samaniya?	Tsuntsu.
+2317662	915051	What color is the arrow sign?	Blue.	Mene launin alamar kibiyar?	Shuɗi.
+2338734	524595	When is the picture taken?	Daytime.	Da yaushe aka ɗauki hoton?	Da rana.
+2327770	725218	What color is the ground?	White.	Mene launin ƙasan?	Fari.
+2386251	678436	What color is the bicycle?	Green.	Mene launin jikin keken?	Kore.
+2374744	1932794	What type of computer is this?	A laptop.	Wanne irin na'ura komfuta ce wannan?	Komfuta tafi da gidan ka.
+2403260	1278867	Where are the trees?	Background.	Ina bishiyun?	A kasan bayan hoton.
+2350144	835313	Where is the man?	The street.	Ina mutumin?	A titi.
+2345063	263547	How many cats are in the picture?	One.	Maguna nawa ne a hoton?	Ɗaya.
+2411258	1325862	What's the color of the plate?	White.	Mene launin farantin?	Fari.
+2401569	602205	What color are the trees?	Green.	Mene launin bishiyun?	Koraye.
+2338152	588979	How many animals are in the picture?	Two.	Dabbobi nawa ne a hoton?	Biyu.
+2412490	1125884	What color is the line next to the green bus?	White.	Mene ne launi layin dake kusa da Koriya bas.?	Fari.
+2385611	678955	What direction is the cat looking?	To the left.	Wanne ɓangaren magen ke kalla?	Hagu.
+2363939	1711640	Where is the pillow?	Under cat's head.	Ina matashin kai yake?	Kasan kan mage.
+2341544	842192	What are the people doing?	Walking.	Me mutane suke yi?	Tafiya.
+2394870	1381294	Who is in the picture?	A woman.	Waye a hoton?	Mace ce.
+2377909	621129	How many people can be seen in this picture?	Two.	Mutane nawa ake iya gani a wannanh oton?	Biyu.
+2346276	453520	What time of day is it?	Day time.	Wanne lokaci wannan?	Da rana.
+2374316	1923532	What is on the feet of the baby?	Socks.	Mene ne a ƙafar jaririn?	Safa.
+2364025	1713480	What is white on the grass?	Flowers.	Mene fari a kan ciyawar?	Furanni.
+2318339	909636	What color is the sky?	Blue.	Mene launin sararin samaniya?	Shuɗi.
+2350144	835311	What is on the ground?	Cement.	Mene a ƙasa?	Siminti.
+2350144	835306	Why is the man in the street?	Catching the bus.	Meyasa mutumin ke kan titi?	Shiga motar bas.
+2401318	1241521	Where is a window?	On the plane.	Ina tagar take?	A jikin jirgin sama.
+2372168	1878958	Who has blue eyes?	The child.	Waye ke da shuɗi ido?	Yaron.
+2341119	394728	What kind of room is this?	Bedroom.	Wanne irin  daki ne wannan?	Dakin bacci.
+2401569	1246801	Where are the trees?	On the left.	Ina bishiyun?	Suna gefen hagu.
+2319425	900948	How many motorcycles are there?	Two.	Babur nawa ne a nan?	Biyu.
+2362135	505864	What is in the cup?	A drink.	Mene a moɗar?	Abin sha.
+2364752	1728074	Where are the cut vegetables sitting?	On top of a knife.	Ina yankakkun kayan lambu suke?	Kan saman wuƙa.
+2339629	651739	When was this picture taken?	During the day.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2392672	1496591	Where are the birds?	Grass field.	Ina tsuntsaye?	Kan ciyawa.
+2381594	490306	How many train tracks are there?	Two.	Hanyar jirgin ƙasa nawa ne a nan?	Biyu.
+2326386	790314	What color is the water?	Blue.	Mene launin ruwan?	Shuɗi.
+2364025	1713476	Where are the white flowers?	In the grass.	Ina fari furanni?	A cikin ciyawa.
+2330319	403375	What color are the bedsheets?	White.	Mene launin zanin gadon?	Fari.
+2376291	686409	Who is visible in this picture?	The bus driver.	Wa ake gani a cikin hoton?	Me tukin bas.
+2398038	1523142	What can be seen in the distance?	Mountains.	Me ake gani a nesa?	Duwatsu.
+2367932	1791664	Where is the spire on the church?	Top of the tower.	Ina spire yake a coci?	Saman tower.
+2403452	536816	When was picture taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2336048	654609	What color is the table the gray laptop is on?	Silver.	Menene launin teburin da kwanftar tafi da gidan ka ruwan kasa take kai?	Silver.
+2410331	1101346	What color is the ramp?	Brown.	Menene launin ramp?	Ruwan ƙasa.
+2371319	370568	What is in the grass?	Elephants.	Menene a cikin ciyawa?	Giwaye.
+2371319	1861157	What way are the elephants facing?	Left.	Wani ɓangare giwayen suke kallo?	Hagu.
+2376147	750498	What is the white clumps?	Cheese.	Menene fari curarre?	Cikwi.
+2323919	864998	What color is the dirt?	Brown.	Menene launin ƙasar?	Ruwan ƙasa.
+2341119	394735	What color is the towel on the balcony?	Pink.	Menene launin tawul din da ke balcony?	Pink.
+2401317	410571	When will the car near the crosswalk be gone?	After it moves past the crosswalk.	Yaushe motar da ke kusa wurin tafiya zata tafi?	Bayan ta wuce wurin tafiyar.
+2366107	1754849	What is painted green?	The bench.	Meye fenti kure?	Benci.
+2384078	360369	What color is the sky in the photo?	Blue.	Meye launin sararin samaniya a hoton?	Shuɗi.
+2380626	746927	What is the horse doing?	Grazing.	Me dokin yakeyi?	Kiwo.
+2380626	746924	What is the white animal?	Bird.	Meye farin dabbar?	Tsuntsuwa.
+2381594	490310	How many headlights does the train have?	Two.	Fitila nawa ce a jirgin kasan?	Biyu.
+2354294	512150	Where Are the man's glasses?	On his face.	Ina gilashin mutumin?	Akan fuskar shi.
+2346276	453525	What is the man doing?	Surfing.	Me mutumin keyi?	Hawa igiyar ruwa .
+2346276	453527	What color is the water?	Green.	Me launi ruwan?	Kore.
+2379989	619462	How many people do you see?	Two.	Mutane nawa ka gani?	Biyu.
+2346613	582203	Where is the picture taken?	The beach.	A ina aka dauki hoton?	A bakin ruwa.
+2330319	403372	How many women are on the bed?	Two.	Mutane nawa ne akan gadon?	Biyu.
+2334735	527784	How many birds are shown in the photo?	One.	Tsuntsu nawa ne ya nuna a hoton?	Ɗaya.
+2339362	268064	Where was this picture taken?	In the refrigerator.	A ina ka dauki hoton?	A cikin firing.
+2410331	1101337	What age is the boy?	14	Meye shekarun yaron?	14
+2401318	346579	How many airplanes are there?	One.	Jirgi nawa ne a gurin?	Ɗaya.
+2372168	1878941	What is the boy doing?	Playing with a cellphone.	Me yaron ya keyi?	Wasa da wayar hannu.
+2378419	364894	Why is the picture clear?	Its daytime.	Meyasa hoton yay tar?	Da rana ne.
+2380626	746928	How many horses are in the picture?	One.	Doki nawane a hoton?	Ɗaya.
+2368690	1807925	What game is being played?	Baseball.	Wani wasa akeyi?	Kwallon kwando.
+2393936	1502767	What is the wall's color?	White.	Meye launin bangwan?	Fari.
+2387890	1411033	Where is the grass?	On the ground.	Ina ciyawar take?	A ƙasa.
+2387890	1411038	Where is the concrete?	In the road.	Ina kankare?	A titi.
+2363837	440313	Who is in the water?	People.	Waye acikin ruwan?	Mutane.
+2415472	934922	What are they watching?	TV.	Me suke kallo?	Talabijin.
+2368442	1802651	Where is the ball?	In the air.	Ina kwallon?	A iska.
+2318313	909842	What color is the ground?	Green.	Mene launin ƙasan?	Kore.
+2346613	582207	How many people are on the beach?	Two.	Mutane nawane a bakin ruwan?	Biyu.
+2391897	418062	How many clocks?	1	Agogo nawane?	1
+2332663	273294	What color is the man's sandals?	Brown.	Meye launin sandal din mutumin?	Ruwan ƙasa.
+2410331	173736	How many people are in the photo?	One.	Mutane nawa ne a hoton?	Ɗaya.
+2365326	1739582	What is the boy holding?	A balloon.	Me yaron yake riƙe dashi?	Balo.
+2376147	750500	What is the bright light?	Sun.	Meye me hasken?	Rana.
+2372168	1878966	What is the hand holding?	Phone.	Me yake riƙe dashi a hannu?	Waya.
+2316371	925381	What color is the sky?	Blue.	Me launin sararin samaniya?	Shuɗi.
+2401569	1246802	What is green in the image?	The tree.	Meye kore a hoton?	Bishiya.
+2341544	842187	What color is the sky?	Blue.	Mene launin sararin samaniya?	Shuɗi.
+2392672	545444	Who is next to the birds?	No one.	Waye a kusa da tsuntsayen?	Ba kowa.
+2387890	677139	What color is the jacket?	Blue.	Meye launin rigar?	Shuɗi.
+2377909	1991846	What is green things placed on pizza?	Leaves.	Meye koren abun da yake kan fizza ɗin?	Ganye.
+2346276	453526	Who is surfing?	A man.	Wa yake hawa kan igiyar ruwa?	Mutumin.
+2331263	274414	Where are the animals looking?	At the camera.	Ina dabbobin suke kalla?	Kamara.
+2384725	807640	What color is the table mat?	Red.	Meye launin tabarmar kan tebur?	Ja.
+2318313	909848	Where is the building?	Behind the trees.	Ina ginin yake?	Bayan bishiyar.
+2391897	1492374	What shape is the clock?	Round.	Meye siffar agogon?	Zagayayye.
+2391897	1492378	Where are the buildings?	Behind the trees.	Ina gina ginan suke?	Bayan bishiyin.
+2386251	678441	How many people are on the bicycle?	Two.	Mutane nawa ne a kan keke?	Biyu.
+2374744	1932796	What is the desk made out of?	Wood.	Dame akayi tebur din?	Katako.
+2360695	1647106	Where are the lights?	On the ceiling.	Ina fitular suke?	Suna saman silin.
+2401317	1241515	What is the fence on the right made of?	Metal.	Dame akayi dangar dame gefen damar?	Karfe.
+2356292	574519	Where are the bananas?	Right of oranges.	Ina ayabar?	Kusa da lemon zaki.
+2356292	574518	When was this taken?	During the day.	Yaushe aka ɗauki wannan?	Da rana.
+2339629	651737	Where was this photo taken?	In a field.	A ina aka ɗauki wannan hoton?	A fili.
+2393344	1500011	What is in the photo?	Elephants.	Mene ne a hoton?	Giwaye.
+2375565	814967	Where is the motorcycle parked?	On the street.	A ina aka ajjiye babur din?	A kan titi.
+2356158	382705	What are they drinking?	Coca-Cola.	Me suke sha?	Coca-cola.
+2394870	671549	When was this?	Daytime.	Yaushe hakan?	Da rana.
+2403452	536818	What is white?	A plane.	Mene ne fari?	Jirgin sama.
+2341119	394730	What color are the bed sheets?	White.	Mene launin zanin gadon?	Fari.
+2319358	901487	How many people are in this photo?	None.	Mutane nawa ne a wannan hoton?	Babu.
+2319358	901485	What color are the flowers in the window?	Yellow.	Mene launin furanni dake taga?	Rawaya.
+2363939	1711655	Where is the cat sleeping?	In a chair.	Ina magen ke barci?	Kan kujera.
+2383236	424950	What is the cat sitting on?	A paper.	Akan me magen ke zaune?	Takarda.
+2354294	512147	What Color is the man's shirt?	White.	Mene launin rigar mutumin?	Fari.
+2345970	710671	What color is the water?	Blue.	Mene launin ruwan?	Shuɗi.
+2331263	274408	What are pictured in this photo?	Sheep.	Hoton mene wannan?	Tumaki.
+2317662	915057	Where is the stop sign?	Above the arrow sign.	Ina alamar tsayawa?	Saman alamar kibiyar.
+2363080	313207	Where is the girl?	In the water.	Ina yarinyar take?	A cikin ruwa.
+2332663	273288	What color is the cup that the little boy is holding?	Red.	Mene launin moɗa da karamin yaron ke riƙe dashi.?	Ja.
+2327770	725214	How many people are skiing?	1	Mutane nawa ke wasan gudun ƙanƙara?	1
+2386251	678437	What does the sign in the background say?	Coca cola.	Me alamar dake ƙasan bayan yace.?	Coca cola.
+2346613	582210	What color is the dog?	Black.	Mene launin jikin karen?	Baƙi.
+2393406	1373251	What is next to the umbrella?	Tree.	Mene kusa da lema?	Bishiya.
+2378419	364892	When was the photo taken?	During the day.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2412490	156466	What color is the front bus?	Green.	Mene launin motar bas din?	Koriya.
+2385611	678952	What color are the cat's eyes?	Green.	Mene launin idon magen?	Koriya.
+2380626	746923	Who is in the picture?	No one.	Waye a hoton?	Babu kowa.
+2398813	1402674	What is the sidewalk made of?	Cement.	Dame aka yi gefen hanyar?	Siminti.
+2349854	515695	Where is the fruit placed?	Bowl.	A ina aka ajjiye kayan marmari?	A kwano.
+2346276	453523	How many people in the photo?	One.	Mutane nawa ne a hoton?	Ɗaya.
+2415472	934928	Who is watching TV?	Two people.	Wake kallon TV?	Mutane biyu.
+2368442	1802658	Where is the tennis ball?	In the air.	Ina kwallon tanis?	Yana iska.
+2363080	313204	What color is girl's shirt?	White.	Mene launin gashin yarinyar?	Fari.
+2359857	1629684	What animal is attached to the cart?	Horse.	Wacce dabba aka ɗaura wa amalanke?	Doki.
+2364025	1713472	What is white in color?	The pants.	Mene mai launin fari?	Wandon.
+2344252	584104	How many toilets are there?	One.	Masai nawa ne a nan?	Ɗaya.
+2384725	807636	When was this photo taken?	Before a meal time.	A yaushe aka ɗauki wannan hoton?	Kafin lokacin cin abinci.
+2364049	632219	What is beside the bus?	A sidewalk.	Mene a kusa da bas din?	Hanyar tafiya.
+2364049	1713974	What is the bus doing?	Stopped at the station.	Me motar bas din ke yi?	Tsaye a tashar.
+2398174	477042	What color os the bus nearest the camera?	White.	Mene launin motar bas din dake kusa da kamera?	Fari.
+2326516	465267	What color are the elephants?	Grey.	Mene launin jikin giwayen?	Ruwan toka.
+2376291	686406	When was this picture taken?	During the day.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2341119	394733	What color cup is on the table?	White.	Mene launin moɗar dake kan tebur?	Fari.
+2364752	1728063	What is behind the table?	A wall.	Mene a bayan tebur din?	Bango.
+2380626	746929	What direction is the horse facing?	Right.	Wanne gefe dokin ke fuskanta?	Dama.
+2392672	1496600	Where are the white feathers on the birds?	Chest.	Ina fararen gashi yake a jikin tsuntsaye?	Kirji.
+2392672	1496593	What covers the animals?	Feathers.	Me ya rufe jikin dabbobin?	Gashi.
+2405201	1155324	What kind of chairs are in the middle of the picture?	Folding chairs,.	Wacce irin kujeru ne a tsakiyar hoton?	Kujeru masu nadewa.
+2370761	1849190	Where is the bench?	In the woods.	Ina benci yake?	A daji.
+2349854	515700	What color is the table?	White.	Mene launin tebur din?	Fari.
+2379989	619464	What is pulling the little girl?	A horse.	Meke jan ƙaramar yarinyar?	Daki.
+2344252	584102	What color is the toilet?	White.	Mene launin matsuguni?	Fari.
+2344252	584100	What is around the child's neck?	Necklaces.	Meke rataye a wuyan yarinyar?	Sarƙa.
+2407162	1200407	What color is the no left turn sign?	Black and white.	Mene launin alamar kar a juya hagu?	Baƙi da fari.
+2318313	909843	What is hanging in the background?	A banner.	Meke rataye a bayan ƙasan hoton?	Tuta.
+2384725	807641	What color is the plate?	White.	Mene launin farantin?	Fari.
+2339362	268066	How many bottles are in the picture?	Fifteen.	Kwalabe nawa ne a hoton?	Sha biyar.
+2318339	909638	When was this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2410331	1101339	What is in the background?	Wall.	Mene a bayan ƙasan?	Bango.
+2393406	1373255	What is the fence connected to?	Red brick wall.	Dangar ba haɗi da me?	Bangon jan bulo.
+2365326	1739603	When was this photo taken?	In the daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2341119	394729	When was this photo taken?	Day time.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2393344	1500014	Where are the elephants?	In the water.	Ina giwayen?	Suna ruwa.
+2319358	901482	What two colors are the words?	Red and white.	Waɗanne launika ne jikin kalmar?	Ja da fari.
+2352633	577425	What is on the tower?	A clock.	Mene jikin hasumiya?	Agogo.
+2352633	577424	Where is the clock?	On the tower.	Ina agogon?	Jikin hasumiya.
+2356158	382707	Where is the knife?	Right of the fork.	Ina wuƙar?	Daga damar cokalin yatsu.
+2406459	1185431	What color is the bus?	Blue.	Mene launin bas?	Shuɗi.
+2406459	1185423	Where is the lady?	Near bus.	Ina matar?	Kusa da bas.
+2398813	1527250	Where was this picture taken?	On the street.	A ina aka ɗauki wannan hoton?	A kan titi.
+2359857	1629682	Who is sitting in the cart?	Man and woman.	Suwaye suke zaune a amalanke?	Namiji da Mace.
+2403260	1278864	What keeps the sheep in?	Fence.	Me ya ajjiye tumaki waje ɗaya?	Danga.
+2385611	678949	When was the picture taken?	Daytime.	Yaushe aka ɗauki hoton nan?	Da rana.
+2332102	273749	What is beside cat's head?	Papers.	Mene kusa da kan magen?	Takardu.
+2406459	1185425	What is the lady on?	Bike.	Me matar take kai?	Keke.
+2398813	1402671	Where are the shadows?	On the ground.	Ina inuwar?	A kan ƙasa.
+2370761	1849189	Where is the row of trees?	On the road.	Ina jerin layin bishiyun?	Akan titin.
+2331263	274411	Where are these animals?	In a pasture.	Ina waƴennan dabbobin?	A cikin gona.
+2415472	934926	What co!or is lampshade?	White.	Menene launin futular?	Fari.
+2374316	1923563	What is the baby holding?	Cloth.	Me jaririyar take riƙe da?	Kaya.
+2374316	1923541	Who is holding the paper?	Small baby.	Wa ke riƙe da takardar?	Ƙaramar jaririya.
+2379989	619466	What is behind the horse?	Trees.	Menene a bayan dokin?	Bishiyu.
+2335079	399562	How many colors are in the toothbrush handle?	Three.	Launika nawa ne a jikin hannun toothbrush?	Uku.
+2374875	1935373	What is this room?	Kitchen.	Wani ɗaki ne nan?	Ɗakin girki?.
+2407162	1200404	Where are the ramps?	Behind the truck.	Ina ramps suke?	Bayan babbar motar.
+2415614	936059	What is the man and woman doing?	Taking.	Me mace da namijin suke yi?	Magana.
+2415614	936065	Who is in the photo?	A man and woman.	Waye a cikin wannan hoton?	Namiji da mace.
+2332663	273290	What is the man holding?	Wii controllers.	Me mutumin yake riƙe da?	Wii controllers.
+2332663	273292	Where is the Wii console?	On the floor.	Ina wii console yake?	Akan kasa.
+2326516	465269	What is the sky like?	Overcast.	Yaya sama take?	Wuce gona da iri.`.
+2398038	1461097	What is to the right of the water?	Building.	Menene a gefen damar ruwan?	Gini.
+2323919	865000	What color is the base?	White.	Menene launin base?	Fari.
+2345063	263545	What color is the window trim?	Blue.	Menene launin datsar tagar?	Shuɗi.
+2411258	1325871	What is in the green bottle to the upper left?	Red wine.	Menene koren kwalba daga hagu sama?	Jan ruwan inibi.
+2401317	1241511	What kind of structure is in the middle distance?	A bridge.	Wani irin tsari ne a tsakiya a nesa?	Gada.
+2338152	588986	Why are their eyes closed?	They are asleep.	Meyasa idanun su suke a rufa?	Bacci sukeyi.
+2364752	1728071	What is sitting in the wooden block?	Knives.	Me ke a kan katakon?	Wuƙaƙe.
+2356292	574522	How many people are there?	Two.	Mutane nawa ne a wurin?	Biyu.
+2366107	1754853	Who is wearing the red jacket?	The woman.	Wa ke sanye da jar jacket?	Matar.
+2393344	800753	How many elephants are facing the camera?	Two.	Giwaye nawa ke kallon kamera?	Biyu.
+2363939	1711646	What are the cats doing?	Napping.	Me maguna ke yi?	Barci.
+2393936	1567039	Where is the man's hand?	In his pocket.	Ina hannun mutumin?	A aljihun sa.
+2363837	440317	How many people are in the water?	11	Mutane nawa ne a ruwan?	11
+2405201	1155328	How big is the room where the picture was taken?	Very big.	Ya girma ɗakin da aka ɗauki wannan hoton a ciki.?	Babba ne Sosai.
+2354294	512144	How many men are there?	One.	Maza nawa ne a hoton?	Ɗaya.
+2367360	310421	What color are the sheep?	White.	Mene launin tunkiya?	Fari.
+2338114	525094	What are between the fence and the buildings?	Trees.	Mene tsakanin dungar da ginin?	Bishiyu.
+2363014	1692837	Who has black hair?	The woman.	Yaye ke da baƙin gashi?	Matar.
+2376332	1964447	What animal is displayed?	Horses.	Wacce dabba aka nuna?	Doki.
+2376332	558490	Who is in the picture?	People with horses.	Waye a hoton?	Mutane da doki.
+2336041	334811	When did the plane take off?	In the morning.	Yaushe jirgin ya tashi?	Da safe.
+2374977	1937350	What number of pizzas?	Two.	Fiza nawa ce?	Biyu.
+2402657	409501	What color is the dog's nose?	Black.	Mene launin hancin kare?	Baƙi.
+2340279	395400	How many people are showing in the image?	One.	Mutane nawa suka fito a hoton?	Ɗaya.
+2345589	646981	What color are the bananas?	Yellow.	Mene launin ayabar?	Rawaya.
+2336292	590470	How many people are there?	Four.	Mutane nawa a nan?	Hudu.
+2385255	487371	When was the pic teken?	During the day.	Yaushe aka ɗauki hoton?	Da rana.
+2410531	1104958	What color are the man's shorts?	White.	Mene ne launin wandon mutane?	Fari.
+2341416	456884	When was this photo taken?	On a trip to the subway.	Yaushe aka ɗauki wannan hoton?	Lokacin ziyarar tashar jirgin ƙasa.
+2354144	832106	How many buses are on the street?	1	Motar bas nawa ce a titi?	1
+2411351	1327681	What is over the man's head?	Large umbrella.	Mene akan mutumin?	Babbar lema.
+2351039	386799	How many people are in the image?	0	Mutane nawa ne a hoton?	0
+2414214	1020043	What shape are the fruits?	Round.	Wacce siffar ce da kayan marmarin?	Zagayayye.
+2392528	1368749	What is the woman wearing on the head?	Hat.	Me matar ke sanye dashi a kanta?	Hula.
+2408813	1068132	Where are the two benches?	Next to one another.	Ina benci guda biyu suke?	Kusa da juna.
+2387827	741161	What color is wall behind the bananas?	Green.	Mene launin bangon dake bayan ayabar?	Kore.
+2335754	526976	When was this picture taken?	Daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
+2336292	590472	When was the photo taken?	Daytime.	A yaushe aka ɗauki hoton ?	Da rana.
+2359580	315991	What is the number displayed on the bus?	22	Wacce lamba ke nuni a jikin bas din?	22
+2410531	1104961	What color is shirt?	White.	Menene launin rigar sa?	Fari.
+2343297	455578	When was this photo taken?	Daytime.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2415964	938863	Where is this scene?	A farm.	Ina ne nan?	Gona.
+2344495	519978	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2388959	1478041	What animal is shown?	Elephants.	Wacce dabba ce ta fito?	Giwa.
+2408406	189139	What color is the tip of the umbrella?	White.	Mene launin saman karshen lemar?	Fari.
+2363154	1695563	What is building made of?	Stone.	Dame akayi ginin?	Dutse.
+2363154	505057	How many floors is the left building?	Three.	Hawa nawa ne a gefen hagun ginin?	Uku.
+2392528	1559979	What is brown in the photo?	Suitcase.	Mene mai launin ruwan ƙasa a hoton?	Ƙaramin akwati.
+2396341	1580336	What is the yellow food on the table?	Bananas.	Wanne abinci ne mai launin rawaya a kan tebur din?	Ayaba.
+2416681	963879	How many baskets are there?	One.	Kwando nawa ne a nan?	Ɗaya.
+2390523	1358144	What material is the counter made of?	Wood.	Dame aka yi kantar?	Katako.
+2402829	601195	When was this taken?	Daytime.	Yaushe aka ɗauki wannan?	Da rana.
+2401945	1471140	What is the ball's color?	Green.	Mene launin kwallon ?	Kore.
+2318638	907245	How many people are shown?	One.	Mutane nawa ne suka fito?	Ɗaya.
+2316928	920923	What is on the man's head?	A hat.	Mene akan mutumin?	Hula.
+2359279	1618369	What is next to the toilet?	A trash can.	Mene kusa da masai?	Abun zuba shafa.
+2361344	1660066	How is the image taken?	Front of camera.	Taya aka ɗauki hoton?	Ta gaban kamera?.
+2362259	1677592	What does the man have?	Bicycle.	Me mutumin ke dashi?	Keke.
+2410531	1104957	What is the man wearing as pants?	Shorts.	Me mutumin ke sanye dashi a matsayin wando?	Jageran wando.
+2365624	1745598	What has white stomachs?	Two black cows.	Meye mai launin jiki fari?	Shanu guda biyu.
+2411997	160414	When was this picture taken?	During the daytime.	Yaushe aka ɗauki wannan hoton?	Da rana.
+2411997	160408	What is the man doing?	Riding a motorcycle.	Me mutumin ke yi?	Tuƙa babur.
+2411997	1115049	How many motorbikes are in the scene?	One.	Babur nawa ne nan?	Ɗaya.
+2328298	404998	What color is the fence?	Orange.	Mene launin dungar?	Ruwan goro.
+2373285	1902748	What is black color?	Net.	Mene baƙi?	Raga.
+2351039	386795	Where is this taken?	Kitchen table.	A ina aka ɗauki wannan?	Tebur din ɗakin girki.
+2374734	495791	What color is the building?	Red.	Mene launin ginin?	Ja.
+2402829	1269704	What are the zebras doing in the water?	Crossing the river.	Me jakin dawa yake yi a ruwa?	Tsallake kogi.
+2402829	601199	What color is the grass?	Green.	Mene launin ciyawar?	Koriya.
+2395872	1386787	What condition is the road in?	Wet.	Ya yanayi titin yake?	A jiƙe.
+2318638	907243	When was the photo taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2379559	363978	How many cats are pictured?	One.	Maguna nawa aka nuna?	Ɗaya.
+2412914	1136122	What color is the scissors?	Orange.	Menene launin almakashin?	Orange.
+2353318	384983	How many women are there?	One.	Mata nawa ne a wurin?	Ɗaya.
+2360930	1651892	What is on the ground?	Brush.	Menene a ƙasa?	Brush.
+2372344	1882681	Where is the man skateboarding?	Halfpipe.	Ina mutumin yake skateboarding?	Rabin pipe.
+2410531	1104967	What is court made of?	Clay.	Da me akayi filin?	Taɓo.
+2370181	1837598	Where is this meal taking place?	A restaurant.	Ina cin abincin na  ke faruwa?	Gidan abinci.
+2346879	390121	Where is the Eiffel Tower?	Reflected in the mirror.	Ina Eiffel Tower?	Sake cika cikin madubi.
+2413695	1012203	Where are the animals?	In the grass.	Ina dabbobin suke?	A cikin ciyawa.
+2413695	1012191	What is in the background?	Bushes.	Menene a baya?	Ciyayi.
+150324	1000599	How many men are standing?	One.	Maza nawa ne a tsaye?	Ɗaya.
+2361225	826438	What color is the man's hat?	Gray.	Menene launin hular mutumin?	Ruwan toka.
+2397109	605769	What color is the canopy?	Green and white.	Menene launin rumfar?	Kore da fari.
+2397109	605765	What color are the traffic lights?	Green.	Menene launin futulun zirga-zirga.?	Kore.
+2357684	829280	What are the horses standing on?	Dirt.	Me dawakan suke tsaye akai?	Ƙasa.
+2375798	366994	What is the person walking on?	A sidewalk.	Me mutumin yake tafiya a kai?	Titin gefen hanya.
+2378366	748736	What colors are the blanket?	Red, white, and blue.	Wasu launika a jikin bargon?	Ja, fari da shudi.
+2363014	1692843	Where is the nose?	On the girl.	Ina hancin?	Jikin yarinyar.
+2376332	1964442	What item is near the shore?	Sand.	Wanne abu ne ke kusa da gaɓa ruwa?	Ƙasa.
+2387827	741159	How man men are in the picture?	Two.	Maza nawa na a hoton?	Biyu.
+2318683	906885	What color are the curtains?	White.	Mene launin labulen?	Fari.
+2337237	459615	What color is the floor?	Black.	Mene launin ƙasan daɓan?	Baƙi.
+2412914	1136141	How many people are there?	None.	Mutane nawa ne a nan?	Babu.
+2374619	367934	Who is in the picture?	No one.	Waye a hoton?	Babu kowa.
+2334471	719844	What is red?	Kite.	Mene Ja?	Jirgin keda.
+2361225	982241	Where was the picture taken?	In a park.	A ina aka ɗauki hoton?	A lambu.
+2357684	829281	What is in the background?	A fence.	Mene a kasan bayan hoton?	Dunga.
+2402216	409858	What other person can be seen?	A cyclist.	Wanne mutumin ake iya gani kuma?	Mai tuka keke.
+2334271	720007	What is the man sitting on?	A motorcycle.	A kan me mutumin ke zaune?	Babur.
+2334271	720010	How many bikes do you see?	1 bike.	Babur nawa kake iya gani?	Babur ɗaya.
+2399248	604062	What is the room?	A bathroom.	Ɗakin mene ne?	Banɗaki.
+2368617	436543	Where is the carpet?	On the floor.	Ina kafet din?	Yana daɓe ƙasa.
+2396341	285791	What fruit is on the white plate on the table?	Plantains.	Wanne kayan marmari ne a kan farin faranti akan tebur?	Agada.
+2332982	273040	When was this image taken?	Winter.	Yaushe aka ɗauka wannan hoton?	Hunturu.
+2355145	965015	What is behind the sink counter top?	A mirror.	Menene a bayan saman kantar sink ɗin?	Madubi.
+2318683	906884	Who is with the man?	No one.	Waye tare da mutumin?	Babu kowa.
+2361344	1660073	What are the women eating?	Hot dog.	Me matan suke ci?	Hot dog.
+2335754	526980	What color are the leaves outside?	Red.	Wani launi ne da ganyanyakin dake waje?	Ja.
+2379559	363976	What kind of animal is this?	Cat.	Wacce irin dabba ce wannan?	Mage.
+2402203	1257937	What are the fluffy things in the sky?	Clouds.	Wasu abubuwa masu laushi ne a sama?	Gajimare.
+2358603	252766	How many machines are there?	One.	Nawane adadin na'urori a gurin?	Ɗaya.
+2362259	1677582	What shade are the majority of the bricks on the building?	Red.	Wani launi ne da yawancin bulo ɗin ginin?	Ja.
+2362259	377817	What is in the black containers?	Flowers.	Menene a cikin baƙaƙen mazubin?	Furanni.
+2374619	1930137	What are the door handles on the refrigerator made of?	Wood.	Da me aka yi mariƙin ƙofar a jikin firjin?	Katako.
+2370181	1837597	What type of bread is shown?	Garlic bread.	Wani irin biredi aka nuna?	Biredin tafarnuwa.
+2343297	455583	What color are the leaves on flowers?	Green.	Wani launi ne da ganyanyakin jikin furannin?	Kore.
+2413695	146831	What is behind the giraffes?	Trees.	Menene a bayan raƙuman dawan?	Bishiyoyi.
+2344495	519977	What type of ground is there?	Grass.	Wani irin ƙasa ne a gurin?	Ciyawa.
+2378808	620415	How wheels does the vehicle have?	Two.	Nawa taya abin hawan yake da shi?	Biyu.
+2375798	1953190	What is the man in front of?	The ocean.	A gaban me mutumin yake?	Tekun.
+2324913	857044	What food tops the dish in the foreground?	Rice.	Wani abinci ne a saman haɗin abincin a gaban?	Shinkafa.
+2411351	1327672	Who is on the man's shirt?	Jesus.	Waye a jikin rigar mutumin?	Yesu.
+2334271	720008	What color is the bike?	Royal blue and white.	Wani launi ne da babur ɗin?	Shuɗin sarauta da fari.
+2334271	720004	What is the man holding?	A gun.	Me mutumin yake riƙe dashi?	Bindiga.
+2362649	633339	What are the walls made of?	Glass.	Da me akayi bangon?	Gilashi.
+2365624	822923	How many cows in the fence?	Four cows.	Nawane adadin saniyoyi a cikin shingen?	Saniyoyi huɗu.
+2389565	803767	What does the woman have around her neck?	A scarf.	Me matar take da shi zagaye da wuyan ta?	Ƙyalle.
+2407122	1199526	What time of day?	Noon.	Wani lokacin rana?	Tsakiyar rana.
+2411997	1115052	What color is the helmet?	Yellow.	Wani launi ne da hular kwanon?	Ruwan ɗorawa.
+2338114	525092	What is in the background of the picture?	A building.	Menene a bayan hoton?	Gini.
+2410830	169745	When was this pic taken?	During the day.	Yaushe aka ɗauka hoton?	Da rana.
+2408406	1059233	What is the color of the water?	Green.	Menene launin ruwan?	Kore.
+2368617	1806528	Where is the bed?	Front of a window.	Ina gadon?	A gaban tagar.
+2368617	1806529	What is the sunlight shining through?	Window.	Ta cikin ina hasken ranar yake haskowa?	Taga.
+2399850	1209737	How is the hair done?	Spiked.	Yaya aka gyara gashin?	A tsaye.
+2352961	321276	How many flower arrangements can you see?	Two.	Nawa ne adadin gyaran furanni da ka iya gani?	Biyu.
+2396341	285789	Who is holding a helmet?	The woman in front.	Waye riƙe da hular kwano?	Matar gaban.
+2374977	1937344	What is floral and white?	Shirt.	Menene mai furanni kuma fari?	Riga.
+2318638	907246	Who has the surfboard?	The man.	Waye yake da allon hawan igiyar ruwan?	Mutumin.
+2332982	273041	How many people are shown?	One.	Nawane adadin mutanen da aka nuna?	Ɗaya.
+2355145	964467	What color is the sink?	White.	Wani launi ne da sink ɗin?	Fari.
+2359279	380204	What color are the towels?	White.	Wani launi ne da tawul ɗin?	Fari.
+2361344	1660068	How the hot dog holding?	Hand.	Yaya riƙewan Hot dog ɗin?	Hannu.
+2402203	217880	Where was the picture taken?	High St.	A ina aka ɗauka hoton?	High St.
+2362601	1684412	What is the man doing?	Skiing.	Me mutumin yake yi?	Sulun ƙanƙara.
+2358603	252761	Who is in the picture?	No one.	Waye a cikin hoton?	Babu kowa.
+2359580	1624257	What is the sidewalk and street made of?	Paving stone.	Da me akayi gefen hanyan da titin?	Dutse mai shimfida.
+2372344	1882670	Where are the parked cars?	On the street.	Ina ajiyayyun motocin?	A kan titi.
+2410531	1104968	What is photo of?	Man tossing tennis ball.	Hoton menene?	Mutumi yana jefa ƙwallon tanis.
+2353356	448306	What color is the chair?	Blue.	Wani launi ne da kujerar?	Shuɗi.
+2353356	448304	How many people are in this picture?	One.	Nawane adadin mutane a cikin wannan hoton?	Ɗaya.
+2343297	455582	What color is the tablecloth?	Red and blue.	Wani launi ne da ƙyallen tebur ɗin?	Ja da shuɗi.
+2346879	390123	What city is this?	Paris.	Wani birni ne wannan?	Paris.
+2357684	829276	When was this photo taken?	Outside, during the daytime.	Yaushe aka ɗauka wannan hoton?	A waje, da rana.
+2354144	832107	What company runs the bus?	Hertz.	Wani kamfani ne ke tafiyar da bas ɗin?	Hertz.
+2402216	1258153	What type of shirt is the man wearing?	Polo.	Wace irin riga mutumin yake sanye da ita?	Polo.
+2342125	841719	Who is looking directly at the photographer?	A girl.	Waye ke kallon mai hoton kai tsaye?	Yarinya.
+2367980	1792639	What is on the other side of the lake?	The trees.	Mene a ɗayan gefen tafkin?	Bishiyu.
+2334365	847922	How many people?	Four.	Mutane nawa?	Hudu.
+2416681	963877	What color are the leaves?	Green.	Mene launin ganyayyakin?	Kore.
+2395872	1386784	What is the girl holding a right hand?	2 bags.	Me yarinyar ke riƙe dashi a hannun dama?	Jakunkuna biyu.
+2395872	1386782	Where is the girl standing?	In the street.	Ina yarinyar ke tsaye?	A titi.
+2398614	1526335	How is the dog?	The dog is white.	Ya karen yake?	Karen fari ne.
+2316928	920924	What color is the water?	Gray and white.	Mene launin ruwan?	Ruwan toka da fari.
+2334471	719848	Where is a kite?	In the air.	Ina jirgin ledar?	A kan iska.
+2353356	448305	What type of animal is that?	A dog.	Wanne irin dabba waccan?	Kare.
+2346879	390122	How many mirrors are visible?	One.	Madubi nawa ake gani?	Ɗaya.
+2361117	1655907	What is the man wearing?	Coat.	Me mutumin ke sanye dashi?	Kwat.
+2338114	525089	Where is the skateboard?	In the air.	Ina allon sulun ƙanƙara?	A iska.
+2328298	975368	Where was the photo taken?	In the snow.	A ina aka ɗauki hoton?	A cikin dusar ƙanƙara.
+2367980	302485	When was this picture taken?	Daytime.	Yaushe aka ɗauka hoton?	Lokacin rana.
+2367980	302483	How many benches are there?	One.	Benci nawa ne a nan?	Ɗaya.
+2399850	1209732	What is the bed beside?	Window.	A gefen me gadon yake?	Taga.
+2336041	334808	What is in the sky?	An airplane.	Ina ne a sararin samaniya?	Jirgin sama.
+2352961	321279	Where are the flowers?	In a vase.	Ina furannin?	A cikin tukunya.
+2374734	495793	Where is the light?	Above the bus.	Ina fitular?	Saman bas.
+2416681	963876	When was the picture taken?	Daytime.	Yaushe aka ɗauka hoton?	Lokacin rana.
+2408813	1068156	What color is the grass?	Green.	Wani launi ne da ciyawan?	Kore.
+2387827	741157	What is the man doing that's standing in the photo?	Touching the bananas.	Me mutumin dake tsaye yake yi dake cikin hoton .?	Taba ayaba.
+2337237	459614	Where is the dog?	In the kitchen.	Ina karen?	Cikin madafan.
+2379559	363980	What color is the cat's back flank?	Black.	Wani launi ne da bayan kwankwason magen?	Baƙi.
+2370181	308986	What color is the tablecloth on the table?	White.	Mene launin mayafin tebur in dake kan tebur?	Fari.
+2359450	1621569	What is in front of the buses?	A city.	Menene a gaban bas ɗin?	Birni.
+2344495	519979	What kind of animal is there?	A zebra.	Wanne irin dabba ce a nan?	Jikin dawa.
+2397109	605766	What color is the statue?	Grey.	Wani launi ne da gunkin?	Ruwan toka.
+2402216	1258142	What race is the boy?	Asian.	Wanne kabila ne yaron?	Dan Asiya.
+2338114	525087	What is the boy doing in the picture?	Skateboarding.	Me yaron yake yi a cikin hoton?	Sulun allo mai taya.
+2363014	1692841	Where is the eye?	On the girl.	Ina idon?	A jikin yarinyar.
+2414214	1024792	What types of food are these?	Fruits.	Wasu irin abinci ne wa'ennan?	Ya'yan itatuwa.
+2399850	1209742	Where is the boy's index finger?	In his mouth.	Ina yatsan nunin yaron?	A cikin bakin shi.
+2336041	334815	How does the plane fly?	Jet engines.	Ta yaya jirgin saman yake tashi?	Injin ɗin jet.
+2407281	1203119	Where is the man?	In the water.	Ina mutumin?	A cikin ruwan.
+2323128	871323	What colors are the street lines?	Yellow and white.	Wasu launuka ne da layukan titin?	Ruwan ɗorawa da fari.
+2323128	871322	What is in the background?	Trees.	Menene a bayan?	Bishiyoyi.
+2334365	847929	Where is black dress?	Woman in foreground.	Ina baƙar rigar?	Matar gaban.
+2402657	409503	What can be seen outside the vehicle?	A road.	Menene ake iya gani a wajen abun hawan?	Hanya.
+2395872	542879	Who is in the picture?	A young woman.	Waye a cikin hoton?	Budurwa.
+2340279	395403	What spicy vegetable is a topping?	Jalapeno pepper.	Wani ganye mai yaji ne a saman?	Attaruhun jalapeno.
+2332982	273047	What color is the man's goggles?	Orange.	Wani launi ne da gogul ɗin mutumin?	Ruwan lemo.
+2345486	775040	Where is this picture taken?	On a railroad.	A ina aka ɗauki wannan hoton?	Akan titin jirgin ƙasa.
+2337237	459608	Who is in the photo?	The woman.	Waye a hoton?	Mace ce.
+2353318	384981	What is hanging from the woman's ear?	Earrings.	Meye rataye a kunnan matar?	Ɗankunne.
+2353318	384976	What color is the plate?	White.	Mene launin farantin?	Fari.
+2338538	396805	What is the color of the sky?	Blue.	Mene launin sararin samaniya ?	Shuɗi.
+2333489	656645	Where is the stove?	Kitchen.	Ina murhun?	Madafa.
+2354144	832111	Where is the bus?	On the street.	Ina bas ɗin?	A kan titi.
+2361117	1655900	Where is the door?	Behind the man on the left in the back.	Ina ƙofar?	A bayan mutumin dake hagu a baya.
+2411351	165577	What is shading the man?	Umbrella.	Menene ya rufe mutumin?	Lema.
+2325842	278595	How many kites are there?	Two.	Nawane adadin jiragen leda a gurin?	Biyu.
+2365624	822922	What is on the ground?	Snow.	Menene a ƙasa?	Dusar ƙanƙara.
+2367360	1779544	Where is the wool?	On the sheep.	Ina gashin tunkiyan?	A jikin tunkiyan?.
+2378366	748737	How many brown cats?	2	Nawane adadin maguna ruwan ƙasa?	2
+2378366	748730	How many cats?	3	Nawane adadin mage?	3
+2378366	748732	What color is the grass?	Green.	Wani launi ne da ciyawan?	Kore.
+2411997	1115056	What color are the numbers in the motorcyclist?	Red.	Wani launi ne da lambobin jikin mai tuƙin babur ɗin?	Ja.
+2408406	1059245	What is the boat made of?	Wood.	Da me akayi kwalekwalen?	Itace.
+2342125	841715	How many people are in the picture?	Three.	Nawane adadin mutane a cikin hoton?	Uku.
+2342125	841718	Where are the children?	Lying in the water.	Ina yaran?	Kwance a cikin ruwan.
+2399850	1209740	How does the boy's forehead look?	Furled.	Kamar yaya goshin yaron yayi?	A tattare.
+2399850	667568	Where was the picture taken?	In a bedroom.	A ina aka ɗauka hoton?	A cikin ɗakin kwana.
+2407281	1203108	What is the man holding?	Ropes.	Me mutumin yake riƙe dashi?	Igiyoyi.
+2323128	871327	Who is pulling the cart?	A horse.	Waye yake jan amalanken?	Doki.
+2402829	1269710	What's the color of the water?	Brown.	Menene launin ruwan?	Ruwan ƙasa-ƙasa.
+2401945	1532261	What sport is the boy playing?	Tennis.	Wanne wasa yaron yake yi?	Tanis.
+2332982	273043	What sport is the man doing?	Skiing.	Wani wasa mutumin yake yi?	Sulun ƙanƙara.
+2318683	906882	When was the photo taken?	Daytime.	Yaushe aka ɗauki hoton?	Da rana.
+2345486	775035	What color is the train?	Blue and yellow.	Mene launin jirgin ƙasa?	Shuɗi da rawaya.
+2336292	590474	Where was the photo taken?	At a baseball field.	A ina aka ɗauka hoton?	A filin baseball.
+2380355	491291	When is the photo taken?	Daytime.	Da yaushe aka ɗauki hoton ?	Da rana.
+2338538	396802	What is the man wearing?	Long sleeve shirt.	Me mutumin yake riƙe dashi?	Riga mai dogon hannu?.
+2370181	1837592	What is on the plate?	Vegetables.	Mene akan farantin?	Kayan lambu.
+2375798	1953184	What is the man holding?	An umbrella.	Me mutumin yake riƙe dashi?	Lema.
+2367360	310419	What are the sheep doing?	Feeding.	Me tunkiyoyin ke yi?	Cin abinci.
+2336041	334809	Where is the plane from?	Canada.	Daga ina jirgin saman yake?	Canada.
+2374977	1937352	What number of men are eating?	Three.	Mutane nawa ke cin abinci?	Uku.
+2402657	1266260	What animal is shown?	Dog.	Wacce dabba ake gani?	Kare.
+2340279	395407	How many fingers are showing?	Seven.	Yatsu nawa ake gani?	Bakwai.
+2316928	920928	When was the picture taken?	Daytime.	A yaushe aka ɗauki hoton?	Da rana.
+2378578	364772	What is on the woman's face?	Glasses.	Mene a fuskar matar?	Madubi ido.
+2336868	653953	How many people are clearly visible?	Zero.	Mutane nawa ake iya gani sosai?	Babu.
+2402203	1257946	Where are the street signs?	On top of the stop sign.	Ina alamar titi?	Saman alamar tsayawa.
+2336292	590471	What sport is being played?	Baseball.	Wanne wasa aka bugawa?	Basbal.
+2360930	1651885	What is in the image?	Giraffe.	Menene a jikin hoton?	Raƙomin dawa.
+2343297	455579	How are the flowers arranged?	In vase.	Yaya aka shirya furannin?	Tukunyar furrai ta gilashi.
+2343297	455580	What color are the flowers?	Yellow.	Wana launi ne furran?	Launin ɗorawa.
+2346879	390125	What color is the road?	Grey.	Wana launi ce hanyar?	Launin toka.
+2378808	620414	Where is the man riding?	In the street.	A ina mutumin yake tuƙi?	A titi.
+2324913	857042	What items are displayed here?	Food.	Waɗanna abubuwa ne aka nuna a nan?	Abinci.
+2324913	857048	What seafood item is part of the dish on the left?	Shrimp.	Wana abincin ruwa ne ke cikin abincin dake ɓarin hagu?	Ƙaguwa.
+2334271	720009	Who is he pointing to?	The spectators.	Wa yake nunawa?	`Yan kallo.
+2362649	1685484	What is in the glasses?	Wine.	Menene acikin gilasan?	Giya.
+2410830	1316963	Where is the truck parked?	On pavement.	A ina aka ajiye tankar?	A kan titi.
+2363154	505060	What is the main color of the road sign?	Red.	Menene babbar launin  alamar hanyar?	Ja.
+2414214	1024788	How many oranges are shown?	4	Lemuka nawa aka nuna?	4
+2377223	1981496	What is on the woman's t-shirt?	White, purple and green letters.	Menene akan tishit din matan?	Fari,shunayya da koren haruffa.
+2345589	646980	When was this photo taken?	During the day.	Yaushe aka ɗauki wannan hoton?	A cikin yini.
+2335754	526977	What type of animal is in the picture?	Cat.	Wana irin dabba ne ajikin hoton?	Mage.
