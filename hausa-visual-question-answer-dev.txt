@@ -1,4 +1,3 @@
-0	1	2	3	4	5
 2339630	972150	Where is the picture taken?	Street corner.	A ina aka ɗauki hoton?	A kwanar titin.
 2329507	961364	When was this picture taken?	Daytime.	Da yaushe aka ɗauki wannan hoton?	Da rana.
 2414273	1336590	Where is the cat?	Inside a car.	Ina magen?	A cikin mota.

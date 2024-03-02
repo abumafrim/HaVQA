@@ -1,4 +1,3 @@
-0	1	2	3	4	5
 2335177	460732	What color is the man's shirt?	White.	Menene launin rigar mutumin?	Fari.
 2392303	1494576	What is attached to the Westminster palace?	A tall tower.	Menene yake maƙale a jikin fadar Westminster?	Dogon hasumiya.
 2321185	886868	What are the horses walking on?	Sand.	Akan me dawakan suke tafiya?	Ƙasa.
